@@ -1,0 +1,27 @@
+{
+  "name": "Dev Container with noVNC Desktop",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "runArgs": [
+    "--ipc=host"
+  ],
+  "forwardPorts": [
+    6080
+  ],
+  "portsAttributes": {
+    "6080": {
+      "label": "noVNC Desktop (Browser)",
+      "onAutoForward": "notify",
+      "requireLocalPort": true
+    }
+  },
+  "postStartCommand": "/usr/local/bin/start-vnc.sh",
+  "customizations": {
+    "vscode": {
+      "settings": {},
+      "extensions": []
+    }
+  },
+  "remoteUser": "root"
+}
