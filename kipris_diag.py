@@ -1,6 +1,5 @@
 import asyncio
 from playwright.async_api import async_playwright
-import re
 
 async def diagnose():
     async with async_playwright() as p:
@@ -10,45 +9,49 @@ async def diagnose():
         )
         page = await context.new_page()
         
-        print("1. KIPRIS 접속 중...")
-        await page.goto("https://www.kipris.or.kr/khome/main.do", wait_until="networkidle")
+        print("1. KIPRIS 특허 검색 페이지로 직접 접속...")
+        # 홈 대신 검색 페이지로 바로 접속하여 팝업 방해 최소화
+        await page.goto("https://www.kipris.or.kr/kpat/searchLogina.do", wait_until="domcontentloaded")
         
-        # 팝업 닫기 시도
+        # 모든 팝업 및 방해 요소 강제 숨김 처리 (JS 주입)
+        print("2. 방해 요소(팝업 등) 제거 중...")
+        await page.add_style_tag(content="""
+            #mainPopup, .popup-dim, .divPopup, #divPopup { display: none !important; }
+        """)
+        
         try:
-            await page.click("#mainPopup .btn-close", timeout=2000)
-            print("   - 팝업 닫기 성공")
+            # 검색어 입력
+            print("3. 검색어 입력: AP=[120120550993]")
+            await page.fill("#inputQuery", "AP=[120120550993]")
+            
+            # 검색 버튼 클릭 (force=True로 가려져 있어도 강제 클릭)
+            # 여러 버튼 중 실제 동작하는 버튼을 특정하기 위해 클래스 조합 사용
+            search_btn = page.locator("button.btn-search").first
+            await search_btn.click(force=True)
+            print("   - 검색 실행 완료")
+        except Exception as e:
+            print(f"   - 검색 실행 중 오류: {e}")
+
+        # 결과 로딩 대기
+        print("4. 결과 로딩 대기...")
+        try:
+            # 검색 결과 리스트가 나타날 때까지 대기
+            await page.wait_for_selector("section.search_result_list", timeout=15000)
+            print("   - 결과 리스트 확인됨!")
         except:
-            print("   - 팝업 없음 또는 닫기 실패")
+            print("   - 결과 리스트 대기 시간 초과. (검색 방식 확인 필요)")
 
-        print("2. 'AP=[120120550993]' 검색 중...")
-        await page.fill("#inputQuery", "AP=[120120550993]")
-        await page.click("button.btn-search")
+        # 현재 상태 확인을 위한 정보 수집
+        all_buttons = await page.locator("button.link.under").all()
+        print(f"5. 발견된 특허 링크(button.link.under) 개수: {len(all_buttons)}개")
         
-        # 결과 로딩 대기 (충분히)
-        print("3. 결과 로딩 대기 중...")
-        await page.wait_for_load_state("networkidle")
-        await asyncio.sleep(3) # 추가 여유 시간
-        
-        # 현재 페이지의 모든 버튼 확인 (디버깅용)
-        buttons = await page.locator("button.link.under").all()
-        print(f"4. 발견된 'button.link.under' 개수: {len(buttons)}개")
-        
-        # 만약 버튼이 없다면 다른 셀렉터 시도
-        if len(buttons) == 0:
-            print("   - [주의] 기존 셀렉터로 버튼을 찾을 수 없음. 대체 셀렉터 시도...")
-            links = await page.locator("a").all()
-            print(f"   - 전체 <a> 태그 개수: {len(links)}개")
-            # 상세 페이지 링크 패턴 확인 (예: openDetail)
-            for i, link in enumerate(links[:50]): # 상위 50개만 확인
-                txt = await link.inner_text()
-                href = await link.get_attribute("href")
-                onclick = await link.get_attribute("onclick")
-                if onclick and "openDetail" in onclick:
-                    print(f"   - [발견!] onclick 패턴: {onclick}")
+        for btn in all_buttons[:3]:
+            txt = await btn.inner_text()
+            onclick = await btn.get_attribute("onclick")
+            print(f"   - 특허: {txt[:20]}... | onclick: {onclick}")
 
-        # 스크린샷 저장 (구조 확인용)
-        await page.screenshot(path="kipris_diag.png")
-        print("5. 진단 스크린샷 저장 완료: kipris_diag.png")
+        await page.screenshot(path="kipris_diag_v2.png")
+        print("6. 진단 스크린샷 저장 완료: kipris_diag_v2.png")
         
         await browser.close()
 

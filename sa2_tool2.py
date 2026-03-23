@@ -31,7 +31,7 @@ def _parse_claim_structure(claims: list[dict]) -> list[dict]:
         num = claim["청구항번호"]
         text = claim["내용"]
 
-        m = re.match(r"^제(\d+)\s*항(?:\s+내지\s+제(\d+)\s*항)?\s+중\s+어느\s+한\s+항에\s+(?:있어서|따른),?\s*", text)
+        m = re.match(r"^제\s*(\d+)\s*항(?:\s+내지\s+제\s*(\d+)\s*항)?\s+중\s+어느\s+한\s+항에\s+(?:있어서|따른),?\s*", text)
         if m:
             if m.group(2):
                 parents = list(range(int(m.group(1)), int(m.group(2)) + 1))
@@ -40,7 +40,7 @@ def _parse_claim_structure(claims: list[dict]) -> list[dict]:
             body = text[m.end():].strip()
             claim_type = "종속항"
         else:
-            m2 = re.match(r"^제(\d+)\s*항에\s+있어서,?\s*", text)
+            m2 = re.match(r"^제\s*(\d+)\s*항에\s+있어서,?\s*", text)
             if m2:
                 parents = [int(m2.group(1))]
                 body = text[m2.end():].strip()
