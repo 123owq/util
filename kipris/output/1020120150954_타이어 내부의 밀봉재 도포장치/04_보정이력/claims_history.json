@@ -1,0 +1,68 @@
+[
+  {
+    "applicationNumber": "1020120150954",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112012106617873",
+    "petitionclauseNumber": "1",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "타이어(100) 내부에 밀봉재(101)를 도포하여 안전 타이어를 제조하는 타이어 내부의 밀봉재 도포장치에 있어서,<br />상기 타이어(100)가 진입되는 투입 컨베이어(1)와, 상기 투입 컨베이어(1)에 의해 공급된 타이어(100)를 1차로 센터링 정렬시키는 1차 센터링부(2), 상기 1차 센터링부(2)를 거친 타이어(100)의 정확한 위치 세팅을 위한 2차 센터링부(3), 상기 2차 센터링부(3)에서 센터링 정렬되어 수평위치로 놓여 있는 타이어(100)를 인수받아 90°각도로 회전시키는 터닝부(4), 상기 터닝부(4)에서 90°각도 회전된 타이어(100) 내부로 진입하는 밀봉재 도포노즐(5)을 갖춘 밀봉재 도포용 로봇(6), 상기 밀봉재 도포노즐(5)이 내부에 위치한 상태에서 타이어(100)를 회전시키는 회전부(7), 상기 회전부(7)에 의해 회전한 타이어(100) 내부를 밀봉재 도포용 로봇(6)의 밀봉재 도포노즐(5)에서 토출된 밀봉재(101)에 의해 도포 완료된 타이어(100a)를 2차 센터링부(3)로 이동시키는 전후진 구동부(8) 및, 상기 밀봉재(101)가 도포 완료된 타이어(100a)로 배출시키는 배출 컨베이어(9)를 갖추어 이루어진 것을 특징으로 하는 타이어 내부의 밀봉재 도포장치",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020120150954",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112012106617873",
+    "petitionclauseNumber": "2",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 1항에 있어서<br />상기 터닝부(4)는 2차 센터링부(3)의 롤러(3a)에 위치한 이송된 타이어(100)를 고정시키는 승하강 실린더(10)에 연결된 고정 브라켓트(11)와 상기 고정 브라켓트(11)로 고정 위치한 타이어(100)를 수직방향인 90°각도로 세우는 변환 실린더(12)에 연결된 수직/수평 변환로드(13)를 구비하여 이루어진 것을 특징으로 하는 타이어 내부의 밀봉재 도포장치.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020120150954",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112012106617873",
+    "petitionclauseNumber": "3",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 1항에 있어서,<br />상기 밀봉재 도포용 로봇(6)은 밀봉재 공급부(14)와 공급펌프(15) 및 밀봉재 도포노즐(5)을 갖추고 있으며, 구동부(16)에 의해 전후진 이동과 밀봉재 도포노즐(5)의 6축 이동이 가능하도록 제어되는 것을 특징으로 하는 타이어 내부의 밀봉재 도포장치.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020120150954",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112012106617873",
+    "petitionclauseNumber": "4",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 1항에 있어서,<br />상기 회전부(6)는 타이어(100)의 센터 중공부에 끼워지는 회전용 롤러(17)와 이 회전용 롤러(17)를 구동시키는 회전모터(18)를 갖춘 것을 특징으로 하는 타이어 내부의 밀봉재 도포장치.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020120150954",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112012106617873",
+    "petitionclauseNumber": "5",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 1항에 있어서,<br />상기 전후진 구동부(8)에는 타이어(100)를 수평방향으로 이송시키는 케이블 트레이(19)가 구비되어 이루어진 것을 특징으로 하는 타이어 내부의 밀봉재 도포장치.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020120150954",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112013116385080",
+    "petitionclauseNumber": "4",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "제 1항에 있어서,<br />상기 회전부(7)는 타이어(100)의 센터 중공부에 끼워지는 회전용 롤러(17)와 이 회전용 롤러(17)를 구동시키는 회전모터(18)를 갖춘 것을 특징으로 하는 타이어 내부의 밀봉재 도포장치.",
+    "transferReceiptDocNumber": "112012106617873",
+    "transferPetitionclause": "제 1항에 있어서,<br />상기 회전부(<Del>6</Del><Ins>7</Ins>)는 타이어(100)의 센터 중공부에 끼워지는 회전용 롤러(17)와 이 회전용 롤러(17)를 구동시키는 회전모터(18)를 갖춘 것을 특징으로 하는 타이어 내부의 밀봉재 도포장치."
+  }
+]

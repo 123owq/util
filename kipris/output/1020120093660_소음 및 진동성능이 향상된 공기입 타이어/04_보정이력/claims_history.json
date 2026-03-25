@@ -1,0 +1,68 @@
+[
+  {
+    "applicationNumber": "1020120093660",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112012068760116",
+    "petitionclauseNumber": "1",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "원주 방향으로 사이드 월부에 양각의 돌출부 또는 음각의 함몰부를 구비하는 타이어에 있어서, 상기 사이드 월부를 타이어 원주방향에 대하여 수직으로 자른 단면의 돌출 면적 및 함몰 면적의 단면적의 합을 A라 할 때 식 A<sub>max</sub> - A<sub>min</sub><sub> </sub>≤ │A│<sub>max</sub>(단, 돌출 면적은 양(+)의 값이고, 함몰 면적은 음(-)의 값이며 A<sub>max</sub><sub> </sub>는<sub> </sub>A의 최대값, A<sub>min</sub> 은 A의 최소값, │A│<sub>max</sub> 는 │A│의 최대값이다.)을 만족하는 공기입 타이어.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020120093660",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112012068760116",
+    "petitionclauseNumber": "2",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제1항에 있어서, 상기 단면은 1mm 내지 1m의 간격으로 이격되어 형성되는 것을 특징으로 하는 공기입 타이어. <br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020120093660",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112012068760116",
+    "petitionclauseNumber": "3",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "사이드 월을 타이어 원주방향에 대하여 수직하게 자른 단면을 소정의 간격(x)으로 도시하는 단계로서, 상기 간격(x)는 0&lt;x≤1m 의 범위 내인 단계;<br />상기 단면의 돌출 면적 및 함몰 면적의 단면적의 합을 A라 할 때 식 A<sub>max</sub> - A<sub>min </sub>≤ │A│<sub>max</sub>(단, 돌출 면적은 양(+)의 값이고, 함몰 면적은 음(-)의 값이며 A<sub>max</sub><sub> </sub>는<sub> </sub>A의 최대값, A<sub>min</sub> 은 A의 최소값, │A│<sub>max</sub> 는 │A│의 최대값이다.)을 만족하도록 상기 사이드 월의 단면 형상을 설계하는 단계; 및 <br />상기 단면 형상의 이웃하는 외곽선을 차례로 연결하는 단계를 포함하는 사이드 월의 입체형상을 설계하는 방법. <br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020120093660",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112012068760116",
+    "petitionclauseNumber": "4",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제3항에 있어서, 상기 간격은 1mm 내지 1m인 것을 특징으로 하는 사이드 월의 입체형상을 설계하는 방법.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020120093660",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112012068760116",
+    "petitionclauseNumber": "5",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제3항에 있어서, 상기 외곽선을 차례로 연결하는 선은 직선 또는 곡선인 것을 특징으로 하는 사이드 월의 입체형상을 설계하는 방법.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020120093660",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112013113521652",
+    "petitionclauseNumber": "2",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "제1항에 있어서, 상기 단면적의 절대값은 상기 사이드 월부의 타이어 원주방향을 따라 1mm 내지 1m의 간격으로 동일한 것을 특징으로 하는 공기입 타이어. <br />",
+    "transferReceiptDocNumber": "112012068760116",
+    "transferPetitionclause": "제1항에 있어서, 상기 단면<Ins>적의 절대값</Ins>은 <Ins>상기 사이드 월부의 타이어 원주방향을 따라 </Ins>1mm 내지 1m의 간격으로 <Del>이격되어 형성되는</Del><Ins>동일한</Ins> 것을 특징으로 하는 공기입 타이어. <br />"
+  }
+]

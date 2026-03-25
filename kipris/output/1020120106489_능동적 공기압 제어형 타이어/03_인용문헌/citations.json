@@ -1,0 +1,72 @@
+[
+  {
+    "ApplicationNumber": "1020120106489",
+    "OriginalcitationLiteraturenumber": "일본 공개특허공보 특개2009173044호20090806 1부",
+    "OriginalcitationLiteraturenumberDate": "20090806",
+    "StandardCitationLiteraturenumber": "21173044",
+    "StandardCitationLiteratureCountryCode": "JP",
+    "StandardCitationLiteratureCountryCodeName": "일본",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "20090806",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0801",
+    "CitationLiteratureTypeCodeName": "발송문서"
+  },
+  {
+    "ApplicationNumber": "1020120106489",
+    "OriginalcitationLiteraturenumber": "공개특허공보 제1019970015065호19970428 1부",
+    "OriginalcitationLiteraturenumberDate": "19970428",
+    "StandardCitationLiteraturenumber": "1019970015065",
+    "StandardCitationLiteratureCountryCode": "KR",
+    "StandardCitationLiteratureCountryCodeName": "대한민국",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "19970428",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0801",
+    "CitationLiteratureTypeCodeName": "발송문서"
+  },
+  {
+    "ApplicationNumber": "1020120106489",
+    "OriginalcitationLiteraturenumber": "JP2009173044 A",
+    "OriginalcitationLiteraturenumberDate": " ",
+    "StandardCitationLiteraturenumber": "21173044",
+    "StandardCitationLiteratureCountryCode": "JP",
+    "StandardCitationLiteratureCountryCodeName": "일본",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "20090806",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0805",
+    "CitationLiteratureTypeCodeName": "선행기술조사문헌"
+  },
+  {
+    "ApplicationNumber": "1020120106489",
+    "OriginalcitationLiteraturenumber": "KR1019970015065 A",
+    "OriginalcitationLiteraturenumberDate": " ",
+    "StandardCitationLiteraturenumber": "1019970015065",
+    "StandardCitationLiteratureCountryCode": "KR",
+    "StandardCitationLiteratureCountryCodeName": "대한민국",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "19970428",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0805",
+    "CitationLiteratureTypeCodeName": "선행기술조사문헌"
+  },
+  {
+    "ApplicationNumber": "1020120106489",
+    "OriginalcitationLiteraturenumber": "등록특허공보 제100268683호 20000714",
+    "OriginalcitationLiteraturenumberDate": "20000714",
+    "StandardCitationLiteraturenumber": "1002686830000",
+    "StandardCitationLiteratureCountryCode": "KR",
+    "StandardCitationLiteratureCountryCodeName": "대한민국",
+    "StandardCitationIdentificationCode": "B1",
+    "StandardCitationLiteraturePublicationDate": "20001016",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0806",
+    "CitationLiteratureTypeCodeName": "출원서인용문헌이력정보"
+  }
+]

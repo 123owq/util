@@ -1,0 +1,58 @@
+[
+  {
+    "ApplicationNumber": "1020120093660",
+    "OriginalcitationLiteraturenumber": "JP2006117080 A",
+    "OriginalcitationLiteraturenumberDate": " ",
+    "StandardCitationLiteraturenumber": "18117080",
+    "StandardCitationLiteratureCountryCode": "JP",
+    "StandardCitationLiteratureCountryCodeName": "일본",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "20060511",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0805",
+    "CitationLiteratureTypeCodeName": "선행기술조사문헌"
+  },
+  {
+    "ApplicationNumber": "1020120093660",
+    "OriginalcitationLiteraturenumber": "JP2001039129 A",
+    "OriginalcitationLiteraturenumberDate": " ",
+    "StandardCitationLiteraturenumber": "13039129",
+    "StandardCitationLiteratureCountryCode": "JP",
+    "StandardCitationLiteratureCountryCodeName": "일본",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "20010213",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0805",
+    "CitationLiteratureTypeCodeName": "선행기술조사문헌"
+  },
+  {
+    "ApplicationNumber": "1020120093660",
+    "OriginalcitationLiteraturenumber": "KR200344126 Y1",
+    "OriginalcitationLiteraturenumberDate": " ",
+    "StandardCitationLiteraturenumber": "2003441260000",
+    "StandardCitationLiteratureCountryCode": "KR",
+    "StandardCitationLiteratureCountryCodeName": "대한민국",
+    "StandardCitationIdentificationCode": "Y1",
+    "StandardCitationLiteraturePublicationDate": "20040309",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0805",
+    "CitationLiteratureTypeCodeName": "선행기술조사문헌"
+  },
+  {
+    "ApplicationNumber": "1020120093660",
+    "OriginalcitationLiteraturenumber": "KR1020050043151 A",
+    "OriginalcitationLiteraturenumberDate": " ",
+    "StandardCitationLiteraturenumber": "1020050043151",
+    "StandardCitationLiteratureCountryCode": "KR",
+    "StandardCitationLiteratureCountryCodeName": "대한민국",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "20050511",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0805",
+    "CitationLiteratureTypeCodeName": "선행기술조사문헌"
+  }
+]

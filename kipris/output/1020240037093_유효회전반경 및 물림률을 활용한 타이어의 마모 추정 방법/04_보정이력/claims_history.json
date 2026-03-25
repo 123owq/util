@@ -1,0 +1,200 @@
+[
+  {
+    "applicationNumber": "1020240037093",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112024029973448",
+    "petitionclauseNumber": "1",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "타이어의 마모 추정 방법에 있어서,<br />연산을 수행하는 연산부에서, 데이터수집부에 의해 수집된 데이터를 필터링하고 ERR(Effective Rolling Radius)을 트래킹하는 단계;<br />상기 연산부에서, Contact Ratio를 기반으로 ERR을 보정하는 단계;<br />상기 연산부에서, 상기 ERR이 감소하는지 확인하는 단계;<br />상기 연산부에서, 상기 ERR이 감소하는 부분에서 상기 ERR과 타이어의 마모량의 선형 관계를 활용하여 상기 타이어의 마모를 추정하는 단계; 를 포함하는 것을 특징으로 하는 유효회전반경 및 물림률을 활용한 타이어의 마모 추정 방법.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020240037093",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112024029973448",
+    "petitionclauseNumber": "2",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 1 항에 있어서,<br />상기 ERR이 감소하는지 확인하는 단계 이후,<br />상기 연산부에서, 상기 ERR이 감소할 시, Contact Ratio를 기반으로 ERR을 보정하는 단계; 를 더 포함하는 것을 특징으로 하는 유효회전반경 및 물림률을 활용한 타이어의 마모 추정 방법.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020240037093",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112024029973448",
+    "petitionclauseNumber": "3",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 1 항에 있어서,<br />상기 ERR이 감소하는 부분에서 상기 ERR과 타이어의 마모량의 선형 관계를 활용하여 상기 타이어의 마모를 추정하는 단계 이후,<br />상기 연산부에서, 상기 ERR이 감소하는 경우의 마모를 출력하는 단계; 를 더 포함하는 것을 특징으로 하는 유효회전반경 및 물림률을 활용한 타이어의 마모 추정 방법.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020240037093",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112024029973448",
+    "petitionclauseNumber": "4",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 1 항에 있어서,<br />상기 데이터수집부에 의해 수집된 데이터를 필터링하고 ERR(Effective Rolling Radius)을 트래킹하는 단계에서, <br />상기 데이터수집부는, Standalone GPS 및 휠스피드를 계측 가능한 센서 중 선택되는 어느 하나 이상의 센서와 TMS(Tire Mounted Sensor)로 구성되는 것을 특징으로 하는 유효회전반경 및 물림률을 활용한 타이어의 마모 추정 방법.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020240037093",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112024029973448",
+    "petitionclauseNumber": "5",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 1 항에 있어서,<br />상기 ERR이 감소하는지 확인하는 단계에서, <br />상기 ERR의 현재의 값이 상기 ERR의 처음 값보다 큰 값이면 상기 ERR이 증가하는 것으로 판단하고, 상기 ERR의 현재의 값이 상기 ERR의 처음 값보다 작은 값이면 상기 ERR이 감소하는 것으로 판단하는 것을 특징으로 하는 유효회전반경 및 물림률을 활용한 타이어의 마모 추정 방법.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020240037093",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112024029973448",
+    "petitionclauseNumber": "6",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 1 항에 있어서,<br />상기 Contact Ratio는 TMS로부터 획득이 가능하고,<br />상기 Contact Ratio는 하기의 식으로 도출되는 것을 특징으로 하는 유효회전반경 및 물림률을 활용한 타이어의 마모 추정 방법.<br /> <b><i>Contact Ratio = f(Inflation Pressure, Load)</i></b><br />(여기서, <i>Contact Ratio</i>는 물림률, <i>Inflation Pressure</i>은 타이어의 공기압, <i>Load</i>는 타이어의 하중에 대한 값이다.)<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020240037093",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112024029973448",
+    "petitionclauseNumber": "7",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 2 항에 있어서,<br />상기 ERR이 감소할 시, Contact Ratio를 기반으로 ERR을 보정하는 단계는,<br />현재의 ERR을 Reference ERR로 변환시키고, 현재의 Contact Ratio를 Reference Contact Ratio로 변환시키는 것을 특징으로 하는 유효회전반경 및 물림률을 활용한 타이어의 마모 추정 방법.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020240037093",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112024029973448",
+    "petitionclauseNumber": "8",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 7 항에 있어서,<br />상기 Reference ERR 및 상기 Reference Contact Ratio는 하기의 식에 의해 도출되는 것을 특징으로 하는 유효회전반경 및 물림률을 활용한 타이어의 마모 추정 방법.<br /><img id=\"i0024\" he=\"7\" wi=\"59\" file=\"pat00024.tif\" img-format=\"tif\" /><br />(여기서, <img id=\"i0025\" he=\"7\" wi=\"15\" file=\"pat00025.tif\" img-format=\"tif\" />는 Reference ERR의 값, <img id=\"i0026\" he=\"7\" wi=\"12\" file=\"pat00026.tif\" img-format=\"tif\" />는 Reference Contact Ratio의 값, <img id=\"i0027\" he=\"6\" wi=\"12\" file=\"pat00027.tif\" img-format=\"tif\" />은 현재의 ERR의 값, <img id=\"i0028\" he=\"6\" wi=\"9\" file=\"pat00028.tif\" img-format=\"tif\" />은 현재의 Contact Ratio의 값이다.)<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020240037093",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112024029973448",
+    "petitionclauseNumber": "9",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 1 항에 있어서,<br />상기 ERR과 상기 타이어의 마모량의 선형 관계는,<br />인위적으로 마모시킨 타이어인 버핑 타이어에서 발생하는 마모별에 따른 ERR 선형 관계식의 데이터베이스로부터 도출되는 것을 특징으로 하는 유효회전반경 및 물림률을 활용한 타이어의 마모 추정 방법.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020240037093",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112024029973448",
+    "petitionclauseNumber": "10",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 9 항에 있어서,<br />상기 ERR을 피팅(Fitting)하여 피팅된 선의 ERR값을 상기 선형 관계식에 대입하여 상기 타이어의 현재 마모량을 추정하는 것을 특징으로 하는 유효회전반경 및 물림률을 활용한 타이어의 마모 추정 방법.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020240037093",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112024029973448",
+    "petitionclauseNumber": "11",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 1 항 내지 제 10 항 중 선택되는 어느 하나의 항에 기재된 유효회전반경 및 물림률을 활용한 타이어의 마모 추정 방법을 수행하여 타이어의 마모량을 연산하는 연산부; 및<br />상기 연산부로부터 타이어의 마모량에 대한 정보를 전달받아 상기 타이어의 마모 상태를 표시하는 디스플레이; 를 포함하는 것을 특징으로 하는 타이어 마모 상태 표시 장치.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020240037093",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112024029973448",
+    "petitionclauseNumber": "12",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 11 항에 의한 타이어 마모 상태 표시 장치; 및<br />상기 연산부로부터 타이어의 마모량에 대한 정보를 전달받아, 상기 타이어의 마모량이 기 설정된 기준 값을 초과하는 경우 경고 신호를 표시하는 경고장치; 를 포함하는 것을 특징으로 하는 타이어 마모 상태 관리 시스템.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020240037093",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112025005553548",
+    "petitionclauseNumber": "2",
+    "changeTypeCode": "D",
+    "changeTypeName": "삭제",
+    "petitionclause": " ",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020240037093",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112025005553548",
+    "petitionclauseNumber": "7",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "제 1 항에 있어서,<br />상기 연산부에서, 상기 ERR이 감소하는지 확인하는 단계 이후에,<br />상기 연산부에서, 상기 ERR이 감소할 시, 상기 ERR을 Reference Contact Ratio 조건으로 하여 Reference ERR로 변환시키는 것을 특징으로 하는 유효회전반경 및 물림률을 활용한 타이어의 마모 추정 방법.<br />",
+    "transferReceiptDocNumber": "112024029973448",
+    "transferPetitionclause": "제 <Del>2</Del><Ins>1</Ins> 항에 있어서,<br /><Ins>상기 연산부에서, </Ins>상기 ERR이 감소<Del>할</Del><Ins>하는지</Ins><Del>시,</Del><Ins>확인하는</Ins><Del>Contact</Del><Ins>단계</Ins><Del>Ratio를</Del><Ins>이후에,<br />상기</Ins><Ins>연산부에서, 상</Ins>기<Del>반으로</Del> ERR<Del>을</Del><Ins>이</Ins><Del>보정하는</Del><Ins>감소할</Ins><Del>단계는</Del><Ins>시</Ins>,<Del><br />현재의</Del><Ins> 상기</Ins> ERR을 Reference <Del>ERR로 변환시키고, 현재의 </Del>Contact Ratio<Del>를</Del><Ins> 조건으로 하여</Ins> Reference <Del>Contact </Del><Ins>E</Ins>R<Del>atio</Del><Ins>R</Ins>로 변환시키는 것을 특징으로 하는 유효회전반경 및 물림률을 활용한 타이어의 마모 추정 방법.<br />"
+  },
+  {
+    "applicationNumber": "1020240037093",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112025005553548",
+    "petitionclauseNumber": "11",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "제 1 항에 기재된 유효회전반경 및 물림률을 활용한 타이어의 마모 추정 방법을 수행하여 타이어의 마모량을 연산하는 연산부; 및<br />상기 연산부로부터 타이어의 마모량에 대한 정보를 전달받아 상기 타이어의 마모 상태를 표시하는 디스플레이; 를 포함하는 것을 특징으로 하는 타이어 마모 상태 표시 장치.<br />",
+    "transferReceiptDocNumber": "112024029973448",
+    "transferPetitionclause": "제 1 항<Del> 내지 제 10 항 중 선택되는 어느 하나의 항</Del>에 기재된 유효회전반경 및 물림률을 활용한 타이어의 마모 추정 방법을 수행하여 타이어의 마모량을 연산하는 연산부; 및<br />상기 연산부로부터 타이어의 마모량에 대한 정보를 전달받아 상기 타이어의 마모 상태를 표시하는 디스플레이; 를 포함하는 것을 특징으로 하는 타이어 마모 상태 표시 장치.<br />"
+  },
+  {
+    "applicationNumber": "1020240037093",
+    "receiptSendSerialNumber": "3",
+    "receiptSendNumber": "112025117113083",
+    "petitionclauseNumber": "1",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "타이어의 마모 추정 방법에 있어서,<br />연산을 수행하는 연산부에서, 데이터수집부에 의해 수집된 데이터를 필터링하고 ERR(Effective Rolling Radius)을 트래킹하는 단계;<br />상기 연산부에서, Contact Ratio를 기반으로 ERR을 보정하는 단계;<br />상기 연산부에서, 상기 ERR이 감소하는지 확인하는 단계;<br />상기 연산부에서, 상기 ERR이 감소하는 부분에서 상기 ERR과 타이어의 마모량의 선형 관계를 활용하여 상기 타이어의 마모를 추정하는 단계; 를 포함하며,<br />상기 연산부에서, 상기 ERR이 감소하는지 확인하는 단계 이후에,<br />상기 연산부에서, 상기 ERR이 감소할 시, 상기 ERR을 Reference Contact Ratio 조건으로 하여 Reference ERR로 변환시키는 것을 특징으로 하는 유효회전반경 및 물림률을 활용한 타이어의 마모 추정 방법.<br />",
+    "transferReceiptDocNumber": "112024029973448",
+    "transferPetitionclause": "타이어의 마모 추정 방법에 있어서,<br />연산을 수행하는 연산부에서, 데이터수집부에 의해 수집된 데이터를 필터링하고 ERR(Effective Rolling Radius)을 트래킹하는 단계;<br />상기 연산부에서, Contact Ratio를 기반으로 ERR을 보정하는 단계;<br />상기 연산부에서, 상기 ERR이 감소하는지 확인하는 단계;<br />상기 연산부에서, 상기 ERR이 감소하는 부분에서 상기 ERR과 타이어의 마모량의 선형 관계를 활용하여 상기 타이어의 마모를 추정하는 단계; 를 포함하<Ins>며,<br />상기 연산부에서, 상기 ERR이 감소하는지 확인하는 단계 이후에,<br />상기 연산부에서, 상기 ERR이 감소할 시, 상기 ERR을 Reference Contact Ratio 조건으로 하여 Reference ERR로 변환시키</Ins>는 것을 특징으로 하는 유효회전반경 및 물림률을 활용한 타이어의 마모 추정 방법.<br />"
+  },
+  {
+    "applicationNumber": "1020240037093",
+    "receiptSendSerialNumber": "3",
+    "receiptSendNumber": "112025117113083",
+    "petitionclauseNumber": "7",
+    "changeTypeCode": "D",
+    "changeTypeName": "삭제",
+    "petitionclause": " ",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020240037093",
+    "receiptSendSerialNumber": "3",
+    "receiptSendNumber": "112025117113083",
+    "petitionclauseNumber": "8",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "제 1 항에 있어서,<br />상기 Reference ERR 및 상기 Reference Contact Ratio는 하기의 식에 의해 도출되는 것을 특징으로 하는 유효회전반경 및 물림률을 활용한 타이어의 마모 추정 방법.<br /><img id=\"i0024\" he=\"7\" wi=\"59\" file=\"pat00024.tif\" img-format=\"tif\" /><br />(여기서, <img id=\"i0025\" he=\"7\" wi=\"15\" file=\"pat00025.tif\" img-format=\"tif\" />는 Reference ERR의 값, <img id=\"i0026\" he=\"7\" wi=\"12\" file=\"pat00026.tif\" img-format=\"tif\" />는 Reference Contact Ratio의 값, <img id=\"i0027\" he=\"6\" wi=\"12\" file=\"pat00027.tif\" img-format=\"tif\" />은 현재의 ERR의 값, <img id=\"i0028\" he=\"6\" wi=\"9\" file=\"pat00028.tif\" img-format=\"tif\" />은 현재의 Contact Ratio의 값이다.)<br />",
+    "transferReceiptDocNumber": "112024029973448",
+    "transferPetitionclause": "제 <Del>7</Del><Ins>1</Ins> 항에 있어서,<br />상기 Reference ERR 및 상기 Reference Contact Ratio는 하기의 식에 의해 도출되는 것을 특징으로 하는 유효회전반경 및 물림률을 활용한 타이어의 마모 추정 방법.<br /><img id=\"i0024\" he=\"7\" wi=\"59\" file=\"pat00024.tif\" img-format=\"tif\" /><br />(여기서, <img id=\"i0025\" he=\"7\" wi=\"15\" file=\"pat00025.tif\" img-format=\"tif\" />는 Reference ERR의 값, <img id=\"i0026\" he=\"7\" wi=\"12\" file=\"pat00026.tif\" img-format=\"tif\" />는 Reference Contact Ratio의 값, <img id=\"i0027\" he=\"6\" wi=\"12\" file=\"pat00027.tif\" img-format=\"tif\" />은 현재의 ERR의 값, <img id=\"i0028\" he=\"6\" wi=\"9\" file=\"pat00028.tif\" img-format=\"tif\" />은 현재의 Contact Ratio의 값이다.)<br />"
+  }
+]

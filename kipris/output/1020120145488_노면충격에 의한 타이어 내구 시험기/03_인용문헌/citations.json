@@ -1,0 +1,44 @@
+[
+  {
+    "ApplicationNumber": "1020120145488",
+    "OriginalcitationLiteraturenumber": "KR1020100086245 A",
+    "OriginalcitationLiteraturenumberDate": " ",
+    "StandardCitationLiteraturenumber": "1020100086245",
+    "StandardCitationLiteratureCountryCode": "KR",
+    "StandardCitationLiteratureCountryCodeName": "대한민국",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "20100730",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0805",
+    "CitationLiteratureTypeCodeName": "선행기술조사문헌"
+  },
+  {
+    "ApplicationNumber": "1020120145488",
+    "OriginalcitationLiteraturenumber": "KR2020090003750 A",
+    "OriginalcitationLiteraturenumberDate": " ",
+    "StandardCitationLiteraturenumber": "2020090003750",
+    "StandardCitationLiteratureCountryCode": "KR",
+    "StandardCitationLiteratureCountryCodeName": "대한민국",
+    "StandardCitationIdentificationCode": " ",
+    "StandardCitationLiteraturePublicationDate": " ",
+    "StandardStatusCode": "99999",
+    "StandardStatusCodeName": "비표준화",
+    "CitationLiteratureTypeCode": "E0805",
+    "CitationLiteratureTypeCodeName": "선행기술조사문헌"
+  },
+  {
+    "ApplicationNumber": "1020120145488",
+    "OriginalcitationLiteraturenumber": "KR1020060041330 A",
+    "OriginalcitationLiteraturenumberDate": " ",
+    "StandardCitationLiteraturenumber": "1020060041330",
+    "StandardCitationLiteratureCountryCode": "KR",
+    "StandardCitationLiteratureCountryCodeName": "대한민국",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "20060511",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0805",
+    "CitationLiteratureTypeCodeName": "선행기술조사문헌"
+  }
+]

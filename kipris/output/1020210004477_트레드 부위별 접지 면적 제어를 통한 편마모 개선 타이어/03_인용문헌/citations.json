@@ -1,0 +1,58 @@
+[
+  {
+    "ApplicationNumber": "1020210004477",
+    "OriginalcitationLiteraturenumber": "일본 공개특허공보 특개2015006871호20150115 1부",
+    "OriginalcitationLiteraturenumberDate": "20150115",
+    "StandardCitationLiteraturenumber": "27006871",
+    "StandardCitationLiteratureCountryCode": "JP",
+    "StandardCitationLiteratureCountryCodeName": "일본",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "20150115",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0801",
+    "CitationLiteratureTypeCodeName": "발송문서"
+  },
+  {
+    "ApplicationNumber": "1020210004477",
+    "OriginalcitationLiteraturenumber": "JP2020023219 A",
+    "OriginalcitationLiteraturenumberDate": " ",
+    "StandardCitationLiteraturenumber": "2020023219",
+    "StandardCitationLiteratureCountryCode": "JP",
+    "StandardCitationLiteratureCountryCodeName": "일본",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "20200213",
+    "StandardStatusCode": "99999",
+    "StandardStatusCodeName": "비표준화",
+    "CitationLiteratureTypeCode": "E0802",
+    "CitationLiteratureTypeCodeName": "선행기술조사보고서"
+  },
+  {
+    "ApplicationNumber": "1020210004477",
+    "OriginalcitationLiteraturenumber": "JP2015506867 A",
+    "OriginalcitationLiteraturenumberDate": " ",
+    "StandardCitationLiteraturenumber": "27506867",
+    "StandardCitationLiteratureCountryCode": "JP",
+    "StandardCitationLiteratureCountryCodeName": "일본",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "20150305",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0802",
+    "CitationLiteratureTypeCodeName": "선행기술조사보고서"
+  },
+  {
+    "ApplicationNumber": "1020210004477",
+    "OriginalcitationLiteraturenumber": "대한민국 등록특허 제1019990000214호",
+    "OriginalcitationLiteraturenumberDate": " ",
+    "StandardCitationLiteraturenumber": "1020000050376",
+    "StandardCitationLiteratureCountryCode": "KR",
+    "StandardCitationLiteratureCountryCodeName": "대한민국",
+    "StandardCitationIdentificationCode": "B1",
+    "StandardCitationLiteraturePublicationDate": "20000805",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0806",
+    "CitationLiteratureTypeCodeName": "출원서인용문헌이력정보"
+  }
+]

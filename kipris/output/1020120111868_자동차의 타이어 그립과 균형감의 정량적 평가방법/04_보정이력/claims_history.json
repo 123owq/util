@@ -1,0 +1,101 @@
+[
+  {
+    "applicationNumber": "1020120111868",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112012081860673",
+    "petitionclauseNumber": "1",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "(1) 자동차 타이어의 그립력과 균형감 성능을 평가하기 위한 컴퓨터는, 고 횡가속도 조타 스윕 시험의 수행에 따라 조타력계로부터 조타각, 조타토크를 포함한 데이터를 전송받으며, 관성센서로부터 3축 가속도, 횡가속도, 3축 회전 각속도를 포함한 데이터를 전송받는 단계,<br />(2) 상기 컴퓨터는, 상기 (1) 단계에서 수행한 고 횡가속도 조타 스윕 시험에 따라 상기 조타력계와 상기 관성센서로부터 전송받은 측정 데이터를 토대로 타이어의 그립력과 균형감 성능과 관련된 객관적 성능 인자를 추출하는 단계, 그리고<br />(3) 상기 컴퓨터는, 상기 (2) 단계에서 추출된 객관적 성능 인자를 토대로 타이어의 그립력과 균형감 성능을 확인하는 단계<br />를 포함하는 자동차의 타이어 그립과 균형감의 정량적 평가방법.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020120111868",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112012081860673",
+    "petitionclauseNumber": "2",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 1 항에 있어서,<br />상기 (1) 단계의 고 횡가속도 조타 스윕 시험은,<br />직진 정속 주행 중에 오른쪽과 왼쪽으로 조타각을 천천히 스윕하는 시험인 자동차의 타이어 그립과 균형감의 정량적 평가방법.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020120111868",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112012081860673",
+    "petitionclauseNumber": "3",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 1 항에 있어서,<br />상기 (2) 단계에서 추출되는 타이어의 그립력과 균형감 성능과 관련된 객관적 성능 인자는,<br /><img id=\"i0005\" he=\"12\" wi=\"132\" file=\"pat00005.tif\" img-format=\"tif\" />의 곡선 접합식을 사용하여 구한 횡가속도에 대한 조타각 선도에서의 최대 횡가속도의 크기인 최대 그립력(AyMax), 횡가속도가 최대 그립력의 85%일 때의 곡선의 기울기(gBalance)와,<br /><img id=\"i0006\" he=\"12\" wi=\"129\" file=\"pat00006.tif\" img-format=\"tif\" />의 곡선 접합식을 사용하여 구한 횡가속도에 대한 횡미끄럼각 선도에서의 자동차가 선회시 횡방향으로 미끄러지는 크기인 최대 횡미끄럼각(BetaMax), 자동차 선회시 횡방향으로 미끄러지는 속도인 횡미끄럼의 빠르기(gBeta)인 자동차의 타이어 그립과 균형감의 정량적 평가방법.<br />여기서, LATAC은 횡가속도, SWA는 조타각, Beta는 횡미끄럼각, a<sub>10</sub>, a<sub>11</sub>, a<sub>12</sub>, a<sub>13</sub>, a<sub>20</sub>, a<sub>21</sub>, a<sub>22</sub>, a<sub>23</sub>는 상수이다.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020120111868",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112012081860673",
+    "petitionclauseNumber": "4",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 3 항에 있어서,<br />상기 횡가속도에 대한 조타각 선도에서의 최대 횡가속도의 크기인 최대 그립력(AyMax), 상기 횡가속도에 대한 횡미끄럼각 선도에서의 자동차가 선회시 횡방향으로 미끄러지는 크기인 최대 횡미끄럼각(BetaMax) 및 횡가속도가 최대 그립력의 85%가 되는 영역에서의 횡미끄럼각의 기울기(gBeta)를 포함한 그립력 성능과 관련된 객관적 성능 인자는, 상기 컴퓨터에서의 타이어 그립력 성능 확인에 이용되는 자동차의 타이어 그립과 균형감의 정량적 평가방법.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020120111868",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112012081860673",
+    "petitionclauseNumber": "5",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 3 항에 있어서,<br />상기 횡가속도에 대한 조타각 선도에서의 횡가속도가 최대 그립력의 85%가 되는 영역에서의 기울기(gBalance), 상기 횡가속도에 대한 횡미끄럼각 선도에서의 횡가속도가 최대 그립력의 85%가 되는 영역에서의 횡미끄럼각의 기울기(gBeta)를 포함한 균형감 성능과 관련된 객관적 성능 인자는, 상기 컴퓨터에서의 타이어 균형감 성능 확인에 이용되는 자동차의 타이어 그립과 균형감의 정량적 평가방법.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020120111868",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112013113276109",
+    "petitionclauseNumber": "1",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "(1) 자동차 타이어의 그립력과 균형감 성능을 평가하기 위한 컴퓨터는, 고 횡가속도 조타 스윕 시험의 수행에 따라 조타력계로부터 조타각, 조타토크를 포함한 데이터를 전송받으며, 관성센서로부터 3축 가속도, 횡가속도, 3축 회전 각속도를 포함한 데이터를 전송받는 단계,<br />(2) 상기 컴퓨터는, 상기 (1) 단계에서 수행한 고 횡가속도 조타 스윕 시험에 따라 상기 조타력계와 상기 관성센서로부터 전송받은 측정 데이터를 토대로 타이어의 그립력과 균형감 성능과 관련된 객관적 성능 인자를 추출하는 단계, 그리고<br />(3) 상기 컴퓨터는, 상기 (2) 단계에서 추출된 객관적 성능 인자를 토대로 타이어의 그립력과 균형감 성능을 확인하는 단계를 포함하며,<br />상기 (2) 단계에서 추출되는 타이어의 그립력과 균형감 성능과 관련된 객관적 성능 인자는,<br /><img id=\"i0005\" he=\"12\" wi=\"132\" file=\"pat00014.jpg\" img-format=\"jpg\" />의 곡선 접합식을 사용하여 구한 횡가속도에 대한 조타각 선도에서의 최대 횡가속도의 크기인 최대 그립력(AyMax), 횡가속도가 최대 그립력의 85%일 때의 곡선의 기울기인 그립력의 균형감(gBalance)과,<br /><img id=\"i0006\" he=\"12\" wi=\"129\" file=\"pat00015.jpg\" img-format=\"jpg\" />의 곡선 접합식을 사용하여 구한 횡가속도에 대한 횡미끄럼각 선도에서의 자동차가 선회시 횡방향으로 미끄러지는 크기인 최대 횡미끄럼각(BetaMax), 자동차 선회시 횡방향으로 미끄러지는 속도인 횡미끄럼의 빠르기(gBeta)인 자동차의 타이어 그립과 균형감의 정량적 평가방법.<br />여기서, LATAC<sub>1</sub> 및 LATAC<sub>2</sub>는 횡가속도, SWA는 조타각, Beta는 횡미끄럼각, a<sub>10</sub>, a<sub>11</sub>, a<sub>12</sub>, a<sub>13</sub>, a<sub>20</sub>, a<sub>21</sub>, a<sub>22</sub>, a<sub>23</sub>는 상수이다.",
+    "transferReceiptDocNumber": "112012081860673",
+    "transferPetitionclause": "(1) 자동차 타이어의 그립력과 균형감 성능을 평가하기 위한 컴퓨터는, 고 횡가속도 조타 스윕 시험의 수행에 따라 조타력계로부터 조타각, 조타토크를 포함한 데이터를 전송받으며, 관성센서로부터 3축 가속도, 횡가속도, 3축 회전 각속도를 포함한 데이터를 전송받는 단계,<br />(2) 상기 컴퓨터는, 상기 (1) 단계에서 수행한 고 횡가속도 조타 스윕 시험에 따라 상기 조타력계와 상기 관성센서로부터 전송받은 측정 데이터를 토대로 타이어의 그립력과 균형감 성능과 관련된 객관적 성능 인자를 추출하는 단계, 그리고<br />(3) 상기 컴퓨터는, 상기 (2) 단계에서 추출된 객관적 성능 인자를 토대로 타이어의 그립력과 균형감 성능을 확인하는 단계<Del><br /></Del>를 포함하<Ins>며,<br />상기 (2) 단계에서 추출되</Ins>는 <Ins>타이어의 그립력과 균형감 성능과 관련된 객관적 성능 인자는,<br /><img id=\"i0005\" he=\"12\" wi=\"132\" file=\"pat00014.jpg\" img-format=\"jpg\" />의 곡선 접합식을 사용하여 구한 횡가속도에 대한 조타각 선도에서의 최대 횡가속도의 크기인 최대 그립력(AyMax), 횡가속도가 최대 그립력의 85%일 때의 곡선의 기울기인 그립력의 균형감(gBalance)과,<br /><img id=\"i0006\" he=\"12\" wi=\"129\" file=\"pat00015.jpg\" img-format=\"jpg\" />의 곡선 접합식을 사용하여 구한 횡가속도에 대한 횡미끄럼각 선도에서의 자동차가 선회시 횡방향으로 미끄러지는 크기인 최대 횡미끄럼각(BetaMax), 자동차 선회시 횡방향으로 미끄러지는 속도인 횡미끄럼의 빠르기(gBeta)인 </Ins>자동차의 타이어 그립과 균형감의 정량적 평가방법.<Ins><br />여기서, LATAC<sub>1</sub> 및 LATAC<sub>2</sub>는 횡가속도, SWA는 조타각, Beta는 횡미끄럼각, a<sub>10</sub>, a<sub>11</sub>, a<sub>12</sub>, a<sub>13</sub>, a<sub>20</sub>, a<sub>21</sub>, a<sub>22</sub>, a<sub>23</sub>는 상수이다.</Ins>"
+  },
+  {
+    "applicationNumber": "1020120111868",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112013113276109",
+    "petitionclauseNumber": "3",
+    "changeTypeCode": "D",
+    "changeTypeName": "삭제",
+    "petitionclause": " ",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020120111868",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112013113276109",
+    "petitionclauseNumber": "4",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "제 1 항에 있어서,<br />상기 횡가속도에 대한 조타각 선도에서의 최대 횡가속도의 크기인 최대 그립력(AyMax), 상기 횡가속도에 대한 횡미끄럼각 선도에서의 자동차가 선회시 횡방향으로 미끄러지는 크기인 최대 횡미끄럼각(BetaMax) 및 횡가속도가 최대 그립력의 85%가 되는 영역에서의 횡미끄럼의 빠르기(gBeta)를 포함한 그립력 성능과 관련된 객관적 성능 인자는, 상기 컴퓨터에서의 타이어 그립력 성능 확인에 이용되는 자동차의 타이어 그립과 균형감의 정량적 평가방법.",
+    "transferReceiptDocNumber": "112012081860673",
+    "transferPetitionclause": "제 <Del>3</Del><Ins>1</Ins> 항에 있어서,<br />상기 횡가속도에 대한 조타각 선도에서의 최대 횡가속도의 크기인 최대 그립력(AyMax), 상기 횡가속도에 대한 횡미끄럼각 선도에서의 자동차가 선회시 횡방향으로 미끄러지는 크기인 최대 횡미끄럼각(BetaMax) 및 횡가속도가 최대 그립력의 85%가 되는 영역에서의 횡미끄럼<Del>각</Del>의 <Del>기울</Del><Ins>빠르</Ins>기(gBeta)를 포함한 그립력 성능과 관련된 객관적 성능 인자는, 상기 컴퓨터에서의 타이어 그립력 성능 확인에 이용되는 자동차의 타이어 그립과 균형감의 정량적 평가방법."
+  },
+  {
+    "applicationNumber": "1020120111868",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112013113276109",
+    "petitionclauseNumber": "5",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "제 1 항에 있어서,<br />상기 횡가속도에 대한 조타각 선도에서의 횡가속도가 최대 그립력의 85%일 때의 곡선의 기울기인 그립력의 균형감(gBalance), 상기 횡가속도에 대한 횡미끄럼각 선도에서의 횡가속도 영역의 기울기를 포함한 균형감 성능과 관련된 객관적 성능 인자는, 상기 컴퓨터에서의 타이어 균형감 성능 확인에 이용되는 자동차의 타이어 그립과 균형감의 정량적 평가방법.",
+    "transferReceiptDocNumber": "112012081860673",
+    "transferPetitionclause": "제 <Del>3</Del><Ins>1</Ins> 항에 있어서,<br />상기 횡가속도에 대한 조타각 선도에서의 횡가속도가 최대 그립력의 85%<Del>가</Del><Ins>일</Ins><Del>되는</Del><Ins>때의</Ins><Del>영역에서</Del><Ins>곡선</Ins>의 기울기<Ins>인 그립력의 균형감</Ins>(gBalance), 상기 횡가속도에 대한 횡미끄럼각 선도에서의 횡가속도<Del>가 최대 그립력의 85%가 되는</Del> 영역<Del>에서의 횡미끄럼각</Del>의 기울기<Del>(gBeta)</Del>를 포함한 균형감 성능과 관련된 객관적 성능 인자는, 상기 컴퓨터에서의 타이어 균형감 성능 확인에 이용되는 자동차의 타이어 그립과 균형감의 정량적 평가방법."
+  }
+]

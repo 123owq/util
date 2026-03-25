@@ -1,0 +1,44 @@
+[
+  {
+    "ApplicationNumber": "1020210016228",
+    "OriginalcitationLiteraturenumber": "등록특허공보 제102080442호20200221 1부",
+    "OriginalcitationLiteraturenumberDate": "20200221",
+    "StandardCitationLiteraturenumber": "1020804420000",
+    "StandardCitationLiteratureCountryCode": "KR",
+    "StandardCitationLiteratureCountryCodeName": "대한민국",
+    "StandardCitationIdentificationCode": "B1",
+    "StandardCitationLiteraturePublicationDate": "20200221",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0801",
+    "CitationLiteratureTypeCodeName": "발송문서"
+  },
+  {
+    "ApplicationNumber": "1020210016228",
+    "OriginalcitationLiteraturenumber": "등록특허공보 제100614520호20060822 1부",
+    "OriginalcitationLiteraturenumberDate": "20060822",
+    "StandardCitationLiteraturenumber": "1006145200000",
+    "StandardCitationLiteratureCountryCode": "KR",
+    "StandardCitationLiteratureCountryCodeName": "대한민국",
+    "StandardCitationIdentificationCode": "B1",
+    "StandardCitationLiteraturePublicationDate": "20060822",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0801",
+    "CitationLiteratureTypeCodeName": "발송문서"
+  },
+  {
+    "ApplicationNumber": "1020210016228",
+    "OriginalcitationLiteraturenumber": "미국등록특허 제9827724호",
+    "OriginalcitationLiteraturenumberDate": " ",
+    "StandardCitationLiteraturenumber": "09827724",
+    "StandardCitationLiteratureCountryCode": "US",
+    "StandardCitationLiteratureCountryCodeName": "미국",
+    "StandardCitationIdentificationCode": "B2",
+    "StandardCitationLiteraturePublicationDate": "20171128",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0806",
+    "CitationLiteratureTypeCodeName": "출원서인용문헌이력정보"
+  }
+]
