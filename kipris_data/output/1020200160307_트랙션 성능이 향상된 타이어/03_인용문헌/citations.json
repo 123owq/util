@@ -1,0 +1,44 @@
+[
+  {
+    "ApplicationNumber": "1020200160307",
+    "OriginalcitationLiteraturenumber": "공개특허공보 제1020100037863호20100412 1부",
+    "OriginalcitationLiteraturenumberDate": "20100412",
+    "StandardCitationLiteraturenumber": "1020100037863",
+    "StandardCitationLiteratureCountryCode": "KR",
+    "StandardCitationLiteratureCountryCodeName": "대한민국",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "20100412",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0801",
+    "CitationLiteratureTypeCodeName": "발송문서"
+  },
+  {
+    "ApplicationNumber": "1020200160307",
+    "OriginalcitationLiteraturenumber": "일본 공개특허공보 특개2014118053호20140630 1부",
+    "OriginalcitationLiteraturenumberDate": "20140630",
+    "StandardCitationLiteraturenumber": "26118053",
+    "StandardCitationLiteratureCountryCode": "JP",
+    "StandardCitationLiteratureCountryCodeName": "일본",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "20140630",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0801",
+    "CitationLiteratureTypeCodeName": "발송문서"
+  },
+  {
+    "ApplicationNumber": "1020200160307",
+    "OriginalcitationLiteraturenumber": "대한민국 등록특허 제100604077호",
+    "OriginalcitationLiteraturenumberDate": " ",
+    "StandardCitationLiteraturenumber": "1006040770000",
+    "StandardCitationLiteratureCountryCode": "KR",
+    "StandardCitationLiteratureCountryCodeName": "대한민국",
+    "StandardCitationIdentificationCode": "B1",
+    "StandardCitationLiteraturePublicationDate": "20060725",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0806",
+    "CitationLiteratureTypeCodeName": "출원서인용문헌이력정보"
+  }
+]

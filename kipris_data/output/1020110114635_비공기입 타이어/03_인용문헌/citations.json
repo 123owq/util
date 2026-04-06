@@ -1,0 +1,58 @@
+[
+  {
+    "ApplicationNumber": "1020110114635",
+    "OriginalcitationLiteraturenumber": "미국 특허공보 US262084419521209 1부",
+    "OriginalcitationLiteraturenumberDate": "19521209",
+    "StandardCitationLiteraturenumber": "02620844",
+    "StandardCitationLiteratureCountryCode": "US",
+    "StandardCitationLiteratureCountryCodeName": "미국",
+    "StandardCitationIdentificationCode": "A1",
+    "StandardCitationLiteraturePublicationDate": "19521209",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0801",
+    "CitationLiteratureTypeCodeName": "발송문서"
+  },
+  {
+    "ApplicationNumber": "1020110114635",
+    "OriginalcitationLiteraturenumber": "미국 특허공보 US504254419910827 1부",
+    "OriginalcitationLiteraturenumberDate": "19910827",
+    "StandardCitationLiteraturenumber": "05042544",
+    "StandardCitationLiteratureCountryCode": "US",
+    "StandardCitationLiteratureCountryCodeName": "미국",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "19910827",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0801",
+    "CitationLiteratureTypeCodeName": "발송문서"
+  },
+  {
+    "ApplicationNumber": "1020110114635",
+    "OriginalcitationLiteraturenumber": "US05042544 A",
+    "OriginalcitationLiteraturenumberDate": " ",
+    "StandardCitationLiteraturenumber": "05042544",
+    "StandardCitationLiteratureCountryCode": "US",
+    "StandardCitationLiteratureCountryCodeName": "미국",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "19910827",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0805",
+    "CitationLiteratureTypeCodeName": "선행기술조사문헌"
+  },
+  {
+    "ApplicationNumber": "1020110114635",
+    "OriginalcitationLiteraturenumber": "WO2007057975 A1",
+    "OriginalcitationLiteraturenumberDate": " ",
+    "StandardCitationLiteraturenumber": "2007057975",
+    "StandardCitationLiteratureCountryCode": "WO",
+    "StandardCitationLiteratureCountryCodeName": "세계지적재산권기구(WIPO)",
+    "StandardCitationIdentificationCode": "A1",
+    "StandardCitationLiteraturePublicationDate": "20070524",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0805",
+    "CitationLiteratureTypeCodeName": "선행기술조사문헌"
+  }
+]

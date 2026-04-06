@@ -1,0 +1,123 @@
+[
+  {
+    "applicationNumber": "1020230041700",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112023035811243",
+    "petitionclauseNumber": "1",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "타이어를 3차원 모델링한 가상 타이어를 유한요소해석하여 해석 데이터를 생성하는 해석 모듈;<br />상기 해석 모듈로부터 전송되는 상기 해석 데이터로부터 상기 가상 타이어에 구비된 다수의 코드에 대한 코드 데이터를 추출하는 코드 데이터 추출 모듈;<br />상기 코드 데이터 추출 모듈로부터 전송되는 상기 코드 데이터를 그래프로 출력하는 코드 데이터 시각화 모듈;<br />상기 코드 데이터 추출 모듈로부터 전송되는 상기 코드 데이터를 기반으로 상기 다수의 코드 간의 상대변위를 계산하여 다수의 상대변위값을 획득하는 상대변위 계산 모듈;<br />상기 상대변위 계산 모듈로부터 전송되는 상기 다수의 상대변위값을 비교하여 상기 다수의 코드 간의 내구성을 분석하는 내구성능 분석 모듈; 및<br />상기 내구성능 분석 모듈로부터 전송되는 상기 다수의 코드 간의 내구성을 출력하는 출력 모듈;을 포함하는 것을 특징으로 하는 타이어의 코드 층간 거동 분석을 위한 후처리 장치.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020230041700",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112023035811243",
+    "petitionclauseNumber": "2",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 1 항에 있어서,<br />상기 코드 데이터 추출 모듈은 상기 다수의 코드에 대한 관찰 단면에서 상기 다수의 코드에 구비된 다수의 노드를 각각 탐지한 후 시작점부터 끝점까지 상기 다수의 코드의 윤곽선에 따라 재정렬하고, 상기 다수의 노드에 대한 노드 데이터를 추출하며,<br />상기 관찰 단면은 상기 코드 데이터 추출 모듈이 상기 가상 타이어의 접지면에서 중앙부를 가상 타이어의 중심축과 수직하도록 절단하여 정의된 상기 다수의 코드층의 단면인 것을 특징으로 하는 타이어의 코드 층간 거동 분석을 위한 후처리 장치.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020230041700",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112023035811243",
+    "petitionclauseNumber": "3",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제2 항에 있어서,<br />노드 데이터는 노드 좌표, 변위, 장력, 변형율 중 적어도 어느 하나를 포함하는 것을 특징으로 하는 타이어의 코드 층간 거동 분석을 위한 후처리 장치.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020230041700",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112023035811243",
+    "petitionclauseNumber": "4",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제1 항에 있어서,<br />상기 상대변위 계산 모듈은 상기 다수의 코드 중 2개의 코드에서 1개의 노드를 각각 선택한 후 연결하여 y축을 정의하고, 상기 가상 타이어의 단면에 수직하도록 z축을 정의하며, 상기 y축 및 상기 z축과 직교하도록 x축을 정의하고,<br />상기 2개의 코드에서 각각 선택된 노드 중 적어도 어느 하나의 노드는 상기 어느 하나의 노드를 포함하는 코드의 끝단에 대한 노드인 것을 특징으로 하는 타이어의 코드 층간 거동 분석을 위한 후처리 장치.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020230041700",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112023035811243",
+    "petitionclauseNumber": "5",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제4 항에 있어서,<br />상기 상대변위 계산 모듈은 상기 2개의 코드에서 각각 선택된 노드를 연결한 가상의 핀(pin)인 PQ선을 형성시키고,<br />상기 상대변위값은 상기 가상의 핀이 각각 상기 x축 및 상기 z축을 기준으로 회전된 x축 회전각(θ<sub>x</sub>), z축 회전각(θ<sub>z</sub>) 및 변형율(E)을 포함하는 것을 특징으로 하는 타이어의 코드 층간 거동 분석을 위한 후처리 장치.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020230041700",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112023035811243",
+    "petitionclauseNumber": "6",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제5 항에 있어서,<br />상기 변형율(E)은,<br /><img id=\"i0003\" he=\"13\" wi=\"37\" file=\"pat00003.jpg\" img-format=\"jpg\" />(여기서, E=변형율, L=PQ선의 길이, L'=PQ선이 변형된 PQ'선의 길이)의 수식으로 정의되는 것을 특징으로 하는 타이어의 코드 층간 거동 분석을 위한 후처리 장치.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020230041700",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112023035811243",
+    "petitionclauseNumber": "7",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제4 항에 있어서,<br />상기 2개의 코드는 제1 스틸 벨트 및 제2 스틸 벨트에 각각 포함되는 코드이고,<br />상기 내구성능 분석 모듈은 상기 다수의 코드 간의 내구성을 분석한 후 내구성 취약 부위를 도출하는 것을 특징으로 하는 타이어의 코드 층간 거동 분석을 위한 후처리 장치.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020230041700",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112023035811243",
+    "petitionclauseNumber": "8",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제1 항에 있어서,<br />상기 후처리 장치는 모니터 및 상기 모니터로 연산된 결과를 전송하는 본체를 포함하는 컴퓨터에 적용되어 구현되는 것을 특징으로 하는 타이어의 코드 층간 거동 분석을 위한 후처리 장치.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020230041700",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112025025932305",
+    "petitionclauseNumber": "1",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "타이어를 3차원 모델링한 가상 타이어를 유한요소해석하여 해석 데이터를 생성하는 해석 모듈;<br />상기 해석 모듈로부터 전송되는 상기 해석 데이터로부터 상기 가상 타이어에 구비된 다수의 코드에 대한 코드 데이터를 추출하는 코드 데이터 추출 모듈;<br />상기 코드 데이터 추출 모듈로부터 전송되는 상기 코드 데이터를 그래프로 출력하는 코드 데이터 시각화 모듈;<br />상기 코드 데이터 추출 모듈로부터 전송되는 상기 코드 데이터를 기반으로 상기 다수의 코드 간의 상대변위를 계산하여 다수의 상대변위값을 획득하는 상대변위 계산 모듈;<br />상기 상대변위 계산 모듈로부터 전송되는 상기 다수의 상대변위값을 비교하여 상기 다수의 코드 중 선택된 2개의 코드 간의 내구성을 분석하는 내구성능 분석 모듈; 및<br />상기 내구성능 분석 모듈로부터 전송되는 상기 다수의 코드 중 선택된 2개의 코드 간의 내구성을 출력하는 출력 모듈;을 포함하고,<br />상기 상대변위 계산 모듈은 상기 다수의 코드 중 상기 선택된 2개의 코드에서 1개의 노드를 각각 선택한 후 연결하여 y축을 정의하고, 상기 가상 타이어의 단면에 수직하도록 z축을 정의하며, 상기 y축 및 상기 z축과 직교하도록 x축을 정의하고,<br />상기 선택된 2개의 코드에서 각각 선택된 노드 중 적어도 어느 하나의 노드는 상기 어느 하나의 노드를 포함하는 코드의 끝단에 대한 노드인 것을 특징으로 하는 타이어의 코드 층간 거동 분석을 위한 후처리 장치.<br />",
+    "transferReceiptDocNumber": "112023035811243",
+    "transferPetitionclause": "타이어를 3차원 모델링한 가상 타이어를 유한요소해석하여 해석 데이터를 생성하는 해석 모듈;<br />상기 해석 모듈로부터 전송되는 상기 해석 데이터로부터 상기 가상 타이어에 구비된 다수의 코드에 대한 코드 데이터를 추출하는 코드 데이터 추출 모듈;<br />상기 코드 데이터 추출 모듈로부터 전송되는 상기 코드 데이터를 그래프로 출력하는 코드 데이터 시각화 모듈;<br />상기 코드 데이터 추출 모듈로부터 전송되는 상기 코드 데이터를 기반으로 상기 다수의 코드 간의 상대변위를 계산하여 다수의 상대변위값을 획득하는 상대변위 계산 모듈;<br />상기 상대변위 계산 모듈로부터 전송되는 상기 다수의 상대변위값을 비교하여 상기 다수의 코드 <Ins>중 선택된 2개의 코드 </Ins>간의 내구성을 분석하는 내구성능 분석 모듈; 및<br />상기 내구성능 분석 모듈로부터 전송되는 상기 다수의 코드 <Ins>중 선택된 2개의 코드 </Ins>간의 내구성을 출력하는 출력 모듈;을 포함하<Ins>고,<br />상기 상대변위 계산 모듈은 상기 다수의 코드 중 상기 선택된 2개의 코드에서 1개의 노드를 각각 선택한 후 연결하여 y축을 정의하고, 상기 가상 타이어의 단면에 수직하도록 z축을 정의하며, 상기 y축 및 상기 z축과 직교하도록 x축을 정의하고,<br />상기 선택된 2개의 코드에서 각각 선택된 노드 중 적어도 어느 하나의 노드</Ins>는 <Ins>상기 어느 하나의 노드를 포함하는 코드의 끝단에 대한 노드인 </Ins>것을 특징으로 하는 타이어의 코드 층간 거동 분석을 위한 후처리 장치.<br />"
+  },
+  {
+    "applicationNumber": "1020230041700",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112025025932305",
+    "petitionclauseNumber": "5",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "제1 항에 있어서,<br />상기 상대변위 계산 모듈은 상기 2개의 코드에서 각각 선택된 노드를 연결한 가상의 핀(pin)인 PQ선을 형성시키고,<br />상기 상대변위값은 상기 가상의 핀이 각각 상기 x축 및 상기 z축을 기준으로 회전된 x축 회전각(θ<sub>x</sub>), z축 회전각(θ<sub>z</sub>) 및 변형율(E)을 포함하는 것을 특징으로 하는 타이어의 코드 층간 거동 분석을 위한 후처리 장치.<br />",
+    "transferReceiptDocNumber": "112023035811243",
+    "transferPetitionclause": "제<Del>4</Del><Ins>1</Ins> 항에 있어서,<br />상기 상대변위 계산 모듈은 상기 2개의 코드에서 각각 선택된 노드를 연결한 가상의 핀(pin)인 PQ선을 형성시키고,<br />상기 상대변위값은 상기 가상의 핀이 각각 상기 x축 및 상기 z축을 기준으로 회전된 x축 회전각(θ<sub>x</sub>), z축 회전각(θ<sub>z</sub>) 및 변형율(E)을 포함하는 것을 특징으로 하는 타이어의 코드 층간 거동 분석을 위한 후처리 장치.<br />"
+  },
+  {
+    "applicationNumber": "1020230041700",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112025025932305",
+    "petitionclauseNumber": "7",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "제1 항에 있어서,<br />상기 2개의 코드는 제1 스틸 벨트 및 제2 스틸 벨트에 각각 포함되는 코드이고,<br />상기 내구성능 분석 모듈은 상기 다수의 코드 간의 내구성을 분석한 후 내구성 취약 부위를 도출하는 것을 특징으로 하는 타이어의 코드 층간 거동 분석을 위한 후처리 장치.<br />",
+    "transferReceiptDocNumber": "112023035811243",
+    "transferPetitionclause": "제<Del>4</Del><Ins>1</Ins> 항에 있어서,<br />상기 2개의 코드는 제1 스틸 벨트 및 제2 스틸 벨트에 각각 포함되는 코드이고,<br />상기 내구성능 분석 모듈은 상기 다수의 코드 간의 내구성을 분석한 후 내구성 취약 부위를 도출하는 것을 특징으로 하는 타이어의 코드 층간 거동 분석을 위한 후처리 장치.<br />"
+  }
+]

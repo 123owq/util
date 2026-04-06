@@ -1,0 +1,46 @@
+[
+  {
+    "applicationNumber": "1020100127770",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112010082398791",
+    "petitionclauseNumber": "1",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "상플라텐(1)의 부가판(4)에 이격 설치된 상부 플레이트(3)와 하부 플레이트(4) 사이에 세그멘트(5)를 감싸아 부가판(2)에 일체로 연결된 아우터링(6)을 구비하여 이루어진 그린타이어의 진공 가류 콘테이너에 있어서,<br />상기 상부 플레이트(3)에는 하강된 부가판(2)에 접하는 아답터(7)가 설치되고, 상기 하부 플레이트(4)의 둘레에는 아우터링(6)에 접하는 접촉측판(8)이 설치되어 이루어진 것을 특징으로 하는 그린타이어의 진공 가류 콘테이너.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020100127770",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112010082398791",
+    "petitionclauseNumber": "2",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 1항에 있어서,<br />상기 하부 플레이트(4)에는 이에 설치된 하부 사이드 몰드(9)와 접촉하는 부위에 O링(10a), 상기 아우터링(6)에는 하부 플레이트(4)의 접촉측판(8) 사이와 접촉하는 부위에 O링(10b), 그리고 상기 부가판(2)에는 상부 플레이트(3)의 아답터(7)가 접촉하는 부위에 O링(10c)이 각각 설치되어 이루어진 것을 특징으로 하는 그린타이어의 진공 가류 콘테이너.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020100127770",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112012086346420",
+    "petitionclauseNumber": "1",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "상플라텐(1)의 부가판(2)에 이격 설치된 상부 플레이트(3)와 하부 플레이트(4) 사이에 세그멘트(5)를 감싸아 부가판(2)에 일체로 연결된 아우터링(6)을 구비하고, 상기 하부 플레이트(4) 둘레에 이우터링(6)에 접하는 접촉 측판(8)이 설치되어 이루어진 그린타이어의 진공 가류 콘테이너에 있어서,<br />상기 상부 플레이트(3)에는 하강된 부가판(2)에 접하는 아답터(7)가 설치되어 이루어진 것을 특징으로 하는 그린타이어의 진공 가류 콘테이너.",
+    "transferReceiptDocNumber": "112010082398791",
+    "transferPetitionclause": "상플라텐(1)의 부가판(<Del>4</Del><Ins>2</Ins>)에 이격 설치된 상부 플레이트(3)와 하부 플레이트(4) 사이에 세그멘트(5)를 감싸아 부가판(2)에 일체로 연결된 아우터링(6)을 구비하<Del>여</Del><Ins>고, 상기 하부 플레이트(4) 둘레에 이우터링(6)에 접하는 접촉 측판(8)이 설치되어</Ins> 이루어진 그린타이어의 진공 가류 콘테이너에 있어서,<br />상기 상부 플레이트(3)에는 하강된 부가판(2)에 접하는 아답터(7)가<Del> 설치되고, 상기 하부 플레이트(4)의 둘레에는 아우터링(6)에 접하는 접촉측판(8)이</Del> 설치되어 이루어진 것을 특징으로 하는 그린타이어의 진공 가류 콘테이너."
+  },
+  {
+    "applicationNumber": "1020100127770",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112012086346420",
+    "petitionclauseNumber": "2",
+    "changeTypeCode": "D",
+    "changeTypeName": "삭제",
+    "petitionclause": " ",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  }
+]

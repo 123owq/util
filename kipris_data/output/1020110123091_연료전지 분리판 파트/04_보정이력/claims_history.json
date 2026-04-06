@@ -1,0 +1,46 @@
+[
+  {
+    "applicationNumber": "1020110123091",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112011092938704",
+    "petitionclauseNumber": "1",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "연료전지 분리판에 있어서, 매니폴트와 가스유로 간의 연결통로의 개방부위에 밀착 결합하는 분리판 파트의 상부면은 평탄부로 형성되어 있고, 그의 하부면은 가스유로의 요철 형상에 대응하도록 일정한 간격으로 요홈을 갖도록 형성되어 있으며, 양쪽 선단은 모재에 형성된 삽입홈에 계합될 수 있도록 돌출부가 설치되어 잇는 것을 특징으로 하는 연료전지 분리판 파트.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020110123091",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112011092938704",
+    "petitionclauseNumber": "2",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 1항에 있어서, 상기 연료 전지 분리판 파트는 플라스틱, 복합재료 또는 금속 재질로 제작하는 것을 특징으로 하는 연료 전지 분리판 파트.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020110123091",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112011092938704",
+    "petitionclauseNumber": "3",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 1항에 있어서, 상기 분리판 파트의 요홈과 가스유로의 요철면은 접착제를 이용하여 계합하는 것을 특징으로 하는 연료 전지 분리판 파트.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020110123091",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112013057628343",
+    "petitionclauseNumber": "1",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "매니폴드와 가스유로 간의 연결통로의 개방부위에 밀착 결합하는 분리판 파트의 상부면이 평탄부로 형성되어 있는 연료전지 분리판에 있어서, 상기 분리판 파트의 하부면은 가스유로의 요철 형상에 대응하도록 일정한 간격으로 요홈을 갖도록 형성되어 있으며, 그의 양쪽 선단은 모재에 형성된 삽입홈에 계합될 수 있도록 돌출부가 설치되어 있는 것을 특징으로 하는 연료전지 분리판 파트.",
+    "transferReceiptDocNumber": "112011092938704",
+    "transferPetitionclause": "<Del>연료전지 분리판에 있어서, </Del>매니폴<Del>트</Del><Ins>드</Ins>와 가스유로 간의 연결통로의 개방부위에 밀착 결합하는 분리판 파트의 상부면<Del>은</Del><Ins>이</Ins> 평탄부로 형성되어 있<Del>고</Del><Ins>는 연료전지 분리판에 있어서</Ins>, <Del>그</Del><Ins>상기 분리판 파트</Ins>의 하부면은 가스유로의 요철 형상에 대응하도록 일정한 간격으로 요홈을 갖도록 형성되어 있으며, <Ins>그의 </Ins>양쪽 선단은 모재에 형성된 삽입홈에 계합될 수 있도록 돌출부가 설치되어 <Del>잇</Del><Ins>있</Ins>는 것을 특징으로 하는 연료전지 분리판 파트."
+  }
+]

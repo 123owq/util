@@ -1,0 +1,30 @@
+[
+  {
+    "ApplicationNumber": "1020110123091",
+    "OriginalcitationLiteraturenumber": "미국 특허출원공개공보 US20070134541호20070614 1부",
+    "OriginalcitationLiteraturenumberDate": "20070614",
+    "StandardCitationLiteraturenumber": "20070134541",
+    "StandardCitationLiteratureCountryCode": "US",
+    "StandardCitationLiteratureCountryCodeName": "미국",
+    "StandardCitationIdentificationCode": "A1",
+    "StandardCitationLiteraturePublicationDate": "20070614",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0801",
+    "CitationLiteratureTypeCodeName": "발송문서"
+  },
+  {
+    "ApplicationNumber": "1020110123091",
+    "OriginalcitationLiteraturenumber": "US20070134541 A1",
+    "OriginalcitationLiteraturenumberDate": " ",
+    "StandardCitationLiteraturenumber": "20070134541",
+    "StandardCitationLiteratureCountryCode": "US",
+    "StandardCitationLiteratureCountryCodeName": "미국",
+    "StandardCitationIdentificationCode": "A1",
+    "StandardCitationLiteraturePublicationDate": "20070614",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0805",
+    "CitationLiteratureTypeCodeName": "선행기술조사문헌"
+  }
+]

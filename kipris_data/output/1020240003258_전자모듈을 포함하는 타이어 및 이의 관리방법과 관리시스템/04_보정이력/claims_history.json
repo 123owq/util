@@ -1,0 +1,167 @@
+[
+  {
+    "applicationNumber": "1020240003258",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112024002816300",
+    "petitionclauseNumber": "1",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "전자모듈을 포함하는 타이어에 있어서, <br />상기 전자모듈의 메모리는 S1 내지 S4의 4개의 영역으로 구분되고,<br />상기 4개의 영역 중,<br />S1영역은 14비트(bit) 이상의 헤더, 필터밸류 및 파티션 데이터가 저장되고;<br />S2영역은 20~40비트(bit)의 제조사정보(Company prefix)가 저장되며;<br />S3영역은 4~20비트(bit)의 상품정보가 저장되고;<br />S4영역은 38비트(bit)의 시리얼넘버 정보가 저장되며;<br />상기 S4영역은 4비트의 S4-1영역과, 34비트의 S4-2영역으로 구분되고, <br />상기 S4-1영역의 첫 번째 3비트는 상기 S3영역의 데이터의 자릿수에 대응되는 데이터가 저장되며, S4-1영역의 마지막 1비트는 상기 S4-1영역과 상기 S4-2영역을 구분하기 위한 '0'이 입력되는 것을 특징으로 하는 전자모듈을 포함하는 타이어.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020240003258",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112024002816300",
+    "petitionclauseNumber": "2",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "전자모듈을 포함하는 타이어에 있어서, <br />상기 전자모듈의 메모리는 S1 내지 S4의 4개의 영역으로 구분되고,<br />상기 4개의 영역 중,<br />S1영역은 14비트(bit) 이상의 헤더, 필터밸류 및 파티션 데이터가 저장되고;<br />S2영역은 20~40비트(bit)의 제조사정보(Company prefix)가 저장되며;<br />S3영역은 4~20비트(bit)의 상품정보가 저장되고;<br />S4영역은 38비트(bit) 이상의 시리얼넘버 정보가 저장되며;<br />상기 S4영역은 35비트의 S4-1'영역과, 3비트의 S4-2'영역으로 구분되고, <br />상기 S4-2'영역은 제3영역의 데이터의 자릿수에 대응되는 데이터가 저장되는 것을 특징으로 하는 전자모듈을 포함하는 타이어.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020240003258",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112024002816300",
+    "petitionclauseNumber": "3",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "전자모듈에 데이터를 입력하는 단계(s100)와, 상기 전자모듈에서 데이터를 읽는 단계(s200)를 포함하는 전자모듈을 포함하는 타이어의 관리방법에 있어서,<br />상기 전자모듈은 96비트(bit) 이상의 메모리를 가지며, 상기 메모리는 S1 내지 S4의 4개의 영역으로 구분되고,<br />상기 4개의 영역 중,<br />S1영역은 14비트(bit) 이상의 헤더, 필터밸류 및 파티션 데이터가 저장되고;<br />S2영역은 24비트(bit) 이상의 제조사정보(Company prefix)가 저장되며;<br />S3영역은 20비트(bit) 이상의 상품정보가 저장되고;<br />S4영역은 38비트(bit) 이상의 시리얼넘버 정보가 저장되며,<br />상기 S4영역은 4비트 이상의 S4-1영역과, 34비트 이상의 S4-2영역으로 구분되고,<br />상기 전자모듈에 데이터를 입력하는 단계(s100)는, <br />회사정보, 상품정보, 시리얼번호를 포함하여 구성된 연속된 숫자가 입력장치에 의해 입력되는 단계(s110);<br />상기 연속된 숫자 중 제조사정보가 S2영역에, 상품정보가 S3영역에 각각 이진수로 변환되어 입력되는 단계(s120);<br />상품정보 데이터의 자릿수가 산정되는 단계(s130);<br />상기 S4-1영역의 첫 3비트에 상기 상품정보 데이터의 자릿수에 대응되는 이진수가 입력되는 단계(s120);<br />상기 S4-1영역의 마지막 비트에 영역구분을 위한 '0'이 입력되는 단계(s130);<br />시리얼번호가 생성되어 상기 S4-2영역에 입력되는 단계(s140);<br />를 포함하는 것을 특징으로 하는 전자모듈을 포함하는 타이어의 관리방법.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020240003258",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112024002816300",
+    "petitionclauseNumber": "4",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제3항에 있어서, <br />상기 전자모듈에서 데이터를 읽는 단계(s200)는,<br />상기 S4-1영역의 첫 번째 3비트를 리턴하여 S3영역의 길이를 확인하는 단계(s210);<br />96비트(bit)의 데이터의 상기 4개의 영역에서 상기 S1영역의14비트를 제외하고 S2 내지 S4영역으로 분할됨을 확인하는 단계(s220);<br />분할된 영역에 따라 데이터를 10진수 변환하는 단계(s230);<br />를 포함하는 것을 특징으로 하는 전자모듈을 이용한 타이어 관리방법.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020240003258",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112024002816300",
+    "petitionclauseNumber": "5",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "전자모듈에 데이터를 입력하는 단계(s100')와, 상기 전자모듈에서 데이터를 읽는 단계(s200')를 포함하는 전자모듈을 이용한 타이어 관리방법에 있어서,<br />상기 전자모듈은 96비트(bit) 이상의 메모리를 가지며, 상기 메모리는 S1 내지 S4의 4개의 영역으로 구분되고,<br />상기 4개의 영역 중,<br />S1영역은 14비트(bit) 이상의 헤더, 필터밸류 및 파티션 데이터가 저장되고;<br />S2영역은 24비트(bit) 이상의 제조사정보(Company prefix)가 저장되며;<br />S3영역은 20비트(bit) 이상의 상품정보가 저장되고;<br />S4영역은 38비트(bit) 이상의 시리얼넘버 정보가 저장되며,<br />상기 S4영역은 35비트 이상의 S4-1'영역과, 3비트 이상의 S4-2'영역으로 구분되고, <br />상기 전자모듈에 데이터를 입력하는 단계(s100')는,<br />회사정보, 상품정보, 시리얼번호를 포함하여 구성된 연속된 숫자가 입력장치에 의해 입력되는 단계(s110');<br />상기 연속된 숫자 중 제조사정보가 S2영역에, 상품정보가 S3영역에 각각 이진수로 변환되어 입력되는 단계(s120');<br />상품정보 데이터의 자릿수가 산정되는 단계(s130');<br />상기 S4-2' 영역 3비트에 상기 상품정보 데이터의 자릿수에 대응되는 이진수가 입력되는 단계(s120');<br />시리얼번호가 생성되어 상기 S4-1'영역에 입력되는 단계(s140');<br />를 포함하는 것을 특징으로 하는 전자모듈을 포함하는 타이어의 관리방법.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020240003258",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112024002816300",
+    "petitionclauseNumber": "6",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제5항에 있어서, <br />상기 전자모듈에서 데이터를 읽는 단계(s200')는,<br />상기 S4-2'영역의 3비트를 리턴하여 S3영역의 길이를 확인하는 단계(s210');<br />상기 전자모듈의 데이터의 상기 4개의 영역에서 상기 S1영역의 14비트를 제외하고 S2 내지 S4영역으로 분할됨을 확인하는 단계(s220');<br />분할된 영역에 따라 데이터를 10진수 변환하는 단계(s230');<br />를 포함하는 것을 특징으로 하는 전자모듈을 포함하는 타이어의 관리방법.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020240003258",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112024002816300",
+    "petitionclauseNumber": "7",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제1항, 제2항, 제3항 및 제5항 중 선택되는 어느 하나의 항에 있어서,<br />헤더, 필터밸류 및 파티션 데이터 각각은 SG-TIN96 형식을 선언하는 데이터인 것을 특징으로 하는 전자모듈을 포함하는 타이어의 관리방법.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020240003258",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112024002816300",
+    "petitionclauseNumber": "8",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "타이어에 장착되는 전자모듈과, 상기 전자모듈에 데이터를 입력 및 읽어내는 입력 및 리딩장치를 포함하는 전자모듈을 이용한 타이어 관리시스템에 있어서,<br />상기 전자모듈은 96비트(bit) 이상의 메모리를 가지며, 상기 메모리는 제1 내지 제4의 4개의 영역으로 구분되고,<br />상기 4개의 영역 중, S1영역은 14비트(bit) 이상의 헤더, 필터밸류 및 파티션 데이터가 저장되고;<br />S2영역은 20~40비트(bit)의 제조사정보(Company prefix)가 저장되며;<br />S3영역은 4~20비트(bit)의 상품정보가 저장되고;<br />S4영역은 38비트(bit) 이상의 시리얼넘버 정보가 저장되며;<br />상기 S4영역은 4비트 이상의 S4-1영역과, 34비트 이상의 S4-2영역으로 구분되고, <br />상기 입력 및 리딩장치의 입력모듈은 회사정보, 상품정보, 시리얼번호로 구성된 연속된 숫자가 입력장치에 의해 입력하되, 변환부에 의해 상기 연속된 숫자 중 제조사정보가 S2영역에, 상품정보가 S3영역에 각각 이진수로 변환되어 입력되고 상기 상품정보 데이터의 자릿수가 산정되며,<br />상기 S4-1영역의 첫3비트에는 상기 상품정보 데이터의 자릿수에 대응되는 이진수가 입력되고 상기 S4-1영역의 마지막 비트에 영역구분을 위한 '0'이 입력되며,<br />생성된 시리얼번호는 상기 S4-2영역에 입력되는 것을 특징으로 하는 전자모듈을 포함하는 타이어의 관리시스템.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020240003258",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112024002816300",
+    "petitionclauseNumber": "9",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제8항에 있어서, <br />상기 입력 및 리딩장치의 리딩모듈은 변환부에 의해 96비트(bit) 이상의 데이터 중 상기 S4-1영역의 첫 번째 3비트를 리턴하여 S3영역의 길이를 확인하고, 96비트(bit) 이상의 데이터의 상기 4개의 영역에서 상기 S1영역의 14비트를 제외하고 S2 내지 S4영역으로 분할하여, 분할된 영역에 따라 데이터를 10진수 변환하여 출력정보를 생성하며,<br />디스플레이모듈이 상기 출력정보를 디스플레이하는 것을 특징으로 하는 전자모듈을 이용한 타이어 관리시스템.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020240003258",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112024002816300",
+    "petitionclauseNumber": "10",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "타이어에 장착되는 전자모듈과, 상기 전자모듈에 데이터를 입력 및 읽어내는 입력 및 리딩장치를 포함하는 전자모듈을 이용한 타이어 관리시스템에 있어서,<br />상기 전자모듈은 96비트(bit) 이상의 메모리를 가지며, 상기 메모리는 제1 내지 제4의 4개의 영역으로 구분되고,<br />상기 4개의 영역 중, S1영역은 14비트(bit) 이상의 헤더, 필터밸류 및 파티션 데이터가 저장되고;<br />S2영역은 20~40비트(bit)의 제조사정보(Company prefix)가 저장되며;<br />S3영역은 4~20비트(bit)의 상품정보가 저장되고;<br />S4영역은 38비트(bit) 이상의 시리얼넘버 정보가 저장되며;<br />상기 S4영역은 35비트 이상의 S4-1'영역과, 3비트 이상의 S4-2'영역으로 구분되고, <br />상기 입력 및 리딩장치의 입력모듈은 회사정보, 상품정보, 시리얼번호로 구성된 연속된 숫자가 입력장치에 의해 입력하되, 변환부에 의해 상기 연속된 숫자 중 제조사정보가 S2영역에, 상품정보가 S3영역에 각각 이진수로 변환되어 입력되고 상기 상품정보 데이터의 자릿수가 산정되며,<br />상기 S4-2'영역의 3비트에는 상기 상품정보 데이터의 자릿수에 대응되는 이진수가 입력되고, 생성된 시리얼번호는 상기 S4-1'영역에 입력되는 것을 특징으로 하는 전자모듈을 포함하는 타이어의 관리시스템.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020240003258",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112024002816300",
+    "petitionclauseNumber": "11",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제10항에 있어서, <br />상기 입력 및 리딩장치의 리딩모듈은 변환부에 의해 상기 전자모듈의 데이터 중 상기 S4-2'영역의 3비트를 리턴하여 S3영역의 길이를 확인하고, 전자모듈의 데이터의 상기 4개의 영역에서 상기 S1영역의 14비트를 제외하고 S2 내지 S4영역으로 분할하여, 분할된 영역에 따라 데이터를 10진수 변환하여 출력정보를 생성하며,<br />디스플레이모듈이 상기 출력정보를 디스플레이하는 것을 특징으로 하는 전자모듈을 포함하는 타이어의 관리시스템.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020240003258",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112024002816300",
+    "petitionclauseNumber": "12",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제8항 또는 제10항에 있어서,<br />상기 전자모듈은 RFID tag, Transponder 또는 TMS센서인 것을 특징으로 하는 전자모듈을 포함하는 타이어의 관리시스템.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020240003258",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112025014191153",
+    "petitionclauseNumber": "4",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "제3항에 있어서, <br />상기 전자모듈에서 데이터를 읽는 단계(s200)는,<br />상기 S4-1영역의 첫 번째 3비트를 리턴하여 S3영역의 길이를 확인하는 단계(s210);<br />96비트(bit)의 데이터의 상기 4개의 영역에서 상기 S1영역의14비트를 제외하고 S2 내지 S4영역으로 분할됨을 확인하는 단계(s220);<br />분할된 영역에 따라 데이터를 10진수 변환하는 단계(s230);<br />를 포함하는 것을 특징으로 하는 전자모듈을 이용한 타이어의 관리방법.",
+    "transferReceiptDocNumber": "112024002816300",
+    "transferPetitionclause": "제3항에 있어서, <br />상기 전자모듈에서 데이터를 읽는 단계(s200)는,<br />상기 S4-1영역의 첫 번째 3비트를 리턴하여 S3영역의 길이를 확인하는 단계(s210);<br />96비트(bit)의 데이터의 상기 4개의 영역에서 상기 S1영역의14비트를 제외하고 S2 내지 S4영역으로 분할됨을 확인하는 단계(s220);<br />분할된 영역에 따라 데이터를 10진수 변환하는 단계(s230);<br />를 포함하는 것을 특징으로 하는 전자모듈을 이용한 타이어<Ins>의</Ins> 관리방법.<Del><br /></Del>"
+  },
+  {
+    "applicationNumber": "1020240003258",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112025014191153",
+    "petitionclauseNumber": "7",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "제3항 또는 제5항에 있어서,<br />헤더, 필터밸류 및 파티션 데이터 각각은 SG-TIN96 형식을 선언하는 데이터인 것을 특징으로 하는 전자모듈을 포함하는 타이어의 관리방법.",
+    "transferReceiptDocNumber": "112024002816300",
+    "transferPetitionclause": "<Del>제1항, 제2항, </Del>제3항 <Del>및</Del><Ins>또는</Ins> 제5항<Del> 중 선택되는 어느 하나의 항</Del>에 있어서,<br />헤더, 필터밸류 및 파티션 데이터 각각은 SG-TIN96 형식을 선언하는 데이터인 것을 특징으로 하는 전자모듈을 포함하는 타이어의 관리방법.<Del><br /></Del>"
+  },
+  {
+    "applicationNumber": "1020240003258",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112025014191153",
+    "petitionclauseNumber": "9",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "제8항에 있어서, <br />상기 입력 및 리딩장치의 리딩모듈은 변환부에 의해 96비트(bit) 이상의 데이터 중 상기 S4-1영역의 첫 번째 3비트를 리턴하여 S3영역의 길이를 확인하고, 96비트(bit) 이상의 데이터의 상기 4개의 영역에서 상기 S1영역의 14비트를 제외하고 S2 내지 S4영역으로 분할하여, 분할된 영역에 따라 데이터를 10진수 변환하여 출력정보를 생성하며,<br />디스플레이모듈이 상기 출력정보를 디스플레이하는 것을 특징으로 하는 전자모듈을 이용한 타이어의 관리시스템.",
+    "transferReceiptDocNumber": "112024002816300",
+    "transferPetitionclause": "제8항에 있어서, <br />상기 입력 및 리딩장치의 리딩모듈은 변환부에 의해 96비트(bit) 이상의 데이터 중 상기 S4-1영역의 첫 번째 3비트를 리턴하여 S3영역의 길이를 확인하고, 96비트(bit) 이상의 데이터의 상기 4개의 영역에서 상기 S1영역의 14비트를 제외하고 S2 내지 S4영역으로 분할하여, 분할된 영역에 따라 데이터를 10진수 변환하여 출력정보를 생성하며,<br />디스플레이모듈이 상기 출력정보를 디스플레이하는 것을 특징으로 하는 전자모듈을 이용한 타이어<Ins>의</Ins> 관리시스템.<Del><br /></Del>"
+  }
+]

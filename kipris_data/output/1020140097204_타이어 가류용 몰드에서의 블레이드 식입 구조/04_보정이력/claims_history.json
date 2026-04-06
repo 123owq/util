@@ -1,0 +1,79 @@
+[
+  {
+    "applicationNumber": "1020140097204",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112014072222059",
+    "petitionclauseNumber": "1",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "타이어 가류용 몰드를 관통하여 형성된 다수개의 관통홀과, 상기 다수개의 관통홀을 외측에서 내측으로 각각 관통하여 몰드에 식입되는 다수개의 블레이드와, 상기 블레이드의 뒤쪽에서 블레이드를 압착하여 각각 고정하는 고정수단을 포함하여 이루어지는 것을 특징으로 하는 블레이드 식입 구조.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020140097204",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112014072222059",
+    "petitionclauseNumber": "2",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제1항에 있어서, 상기 고정수단은 볼트 또는 핀으로 이루어지는 것을 특징으로 하는 블레이드 식입 구조.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020140097204",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112014072222059",
+    "petitionclauseNumber": "3",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제2항에 있어서, 상기 블레이드의 후단부 내측으로는 나사홈이 형성되어 상기 나사홈에 볼트가 나사 결합하여 고정되는 것을 특징으로 하는 블레이드 식입 구조.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020140097204",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112014072222059",
+    "petitionclauseNumber": "4",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제1항에 있어서, 상기 블레이드는 후단부에 방사상 방향의 돌출부가 형성되어 상기 돌출부가 몰드에 형성된 관통홀의 턱에 걸리도록 구성되는 것을 특징으로 하는 블레이드 식입 구조.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020140097204",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112014072222059",
+    "petitionclauseNumber": "5",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제1항에 있어서, 상기 몰드에는 몰드와 브레이드 사이에 형성되는 미세한 갭을 통하여 공기가 배출될 수 있도록 공기 배출 홈이 형성되는 것을 특징으로 하는 블레이드 식입 구조.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020140097204",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112015105338718",
+    "petitionclauseNumber": "1",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "타이어 가류용 몰드를 관통하여 형성된 다수개의 관통홀과, 상기 다수개의 관통홀을 외측에서 내측으로 각각 관통하여 몰드에 식입되는 다수개의 블레이드와, 상기 블레이드를 상기 관통홀의 외측에서 내측으로 압착하여 각각 고정하는 고정수단을 포함하여 이루어지는 것을 특징으로 하는 블레이드 식입 구조.",
+    "transferReceiptDocNumber": "112014072222059",
+    "transferPetitionclause": "타이어 가류용 몰드를 관통하여 형성된 다수개의 관통홀과, 상기 다수개의 관통홀을 외측에서 내측으로 각각 관통하여 몰드에 식입되는 다수개의 블레이드와, 상기 블레이드<Ins>를 상기 관통홀</Ins>의 <Del>뒤쪽</Del><Ins>외측</Ins>에서 <Del>블레이드를</Del><Ins>내측으로</Ins> 압착하여 각각 고정하는 고정수단을 포함하여 이루어지는 것을 특징으로 하는 블레이드 식입 구조."
+  },
+  {
+    "applicationNumber": "1020140097204",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112015105338718",
+    "petitionclauseNumber": "5",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "제1항에 있어서, 상기 몰드에는 몰드와 블레이드 사이에 형성되는 미세한 갭을 통하여 공기가 배출될 수 있도록 공기 배출 홈이 형성되는 것을 특징으로 하는 블레이드 식입 구조.",
+    "transferReceiptDocNumber": "112014072222059",
+    "transferPetitionclause": "제1항에 있어서, 상기 몰드에는 몰드와 <Del>브</Del><Ins>블</Ins>레이드 사이에 형성되는 미세한 갭을 통하여 공기가 배출될 수 있도록 공기 배출 홈이 형성되는 것을 특징으로 하는 블레이드 식입 구조."
+  }
+]

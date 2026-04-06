@@ -1,0 +1,112 @@
+[
+  {
+    "applicationNumber": "1020110120654",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112011091219211",
+    "petitionclauseNumber": "1",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "타이어 횡력 검출방법에 있어서, <br />다수의 센서가 장착된 실제 차량으로 주행 시험을 수행하여 차량 거동에 대한 데이터를 센서로부터 수집하는 단계;<br />다수의 센서로부터 수집된 데이터를 횡력 연산검출부에서 기준 차량 모델과 칼만(Kalman) 추정 수식에 적용하여 식(1)의 타이어 횡력을 결정하는 매개변수를 추정하는 단계; 및<br />실차 주행 시험부의 데이터와 비교하여 오차를 최소화하는 방향으로 식(1) 타이어의 매개변수를 추정하는 단계를 포함한 타이어 횡력 검출방법.<br /><img id=\"i0023\" he=\"15\" wi=\"192\" file=\"pat00023.jpg\" img-format=\"jpg\" /><sub> (1)</sub><br />(여기서, α<sub>i</sub>는 타이어에서 발생하는 슬립각이며, B<sub>i</sub>, C<sub>i</sub>, D<sub>i</sub>, E<sub>i</sub>는 타이어의 횡력 특성을 결정하는 매개변수임)",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020110120654",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112011091219211",
+    "petitionclauseNumber": "2",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "청구항 1에 있어서, <br />상기 타이어 횡력 검출방법은 에이와이씨(AYC), 비에프디씨(BFDC), 에이더블유디(AWD) 및 티씨엘(TCL) 및 4더블유에스 중에 하나 이상을 선택 채용할 수 있도록 구성된 타이어 횡력 검출방법.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020110120654",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112011091219211",
+    "petitionclauseNumber": "3",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "타이어 횡력 검출장치에 있어서, <br />실제 차량으로 주행 시험을 수행하여 차량 거동에 대한 데이터를 수집하기 위하여 차량에 부착 설치되는 다수의 센서;<br />다수의 센서로부터 수집된 데이터를 기준 차량 모델과 칼만(Kalman) 추정 수식에 적용하여 식(1)의 타이어 횡력을 결정하는 매개변수를 연산하는 횡력 연산검출부; 및 <br />실차 주행 시험부의 데이터와 비교하여 오차를 최소화하는 방향으로 식(1) 타이어의 매개변수를 추정하는 수단으로 구성된 타이어 횡력 검출장치.<br /><img id=\"i0024\" he=\"15\" wi=\"192\" file=\"pat00024.jpg\" img-format=\"jpg\" /><sub> (1)</sub><br />(여기서, α<sub>i</sub>는 타이어에서 발생하는 슬립각이며, B<sub>i</sub>, C<sub>i</sub>, D<sub>i</sub>, E<sub>i</sub>는 타이어의 횡력 특성을 결정하는 매개변수임)",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020110120654",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112011091219211",
+    "petitionclauseNumber": "4",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "청구항 3에 있어서, <br />상기 타이어 횡력 검출장치는 에이와이씨(AYC), 비에프디씨(BFDC), 에이더블유디(AWD) 및 티씨엘(TCL) 및 4더블유에스 중에 하나 이상을 선택 채용할 수 있도록 구성된 타이어 횡력 검출장치.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020110120654",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112011091219211",
+    "petitionclauseNumber": "5",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "청구항 3에 있어서,<br />상기 기준 차량 모델에 적용된 운동수식은 하기 식(2)와 같이 주어짐을 특징으로 하는 타이어 횡력 검출장치. <br /><img id=\"i0025\" he=\"81\" wi=\"215\" file=\"pat00025.jpg\" img-format=\"jpg\" /> (2)<br />(식 (2)에서, <img id=\"i0026\" he=\"5\" wi=\"6\" file=\"pat00026.jpg\" img-format=\"jpg\" />은 차량의 질량, <img id=\"i0027\" he=\"8\" wi=\"7\" file=\"pat00027.jpg\" img-format=\"jpg\" />는 스프링 질량 (sprung mass) 이고, <img id=\"i0028\" he=\"8\" wi=\"7\" file=\"pat00028.jpg\" img-format=\"jpg\" />, <img id=\"i0029\" he=\"8\" wi=\"8\" file=\"pat00029.jpg\" img-format=\"jpg\" />, <img id=\"i0030\" he=\"8\" wi=\"8\" file=\"pat00030.jpg\" img-format=\"jpg\" />은 회전관성모멘트 (moment of inertia) 이며, <img id=\"i0031\" he=\"8\" wi=\"6\" file=\"pat00031.jpg\" img-format=\"jpg\" />은 롤 강성 (roll stiffness) 이고, <img id=\"i0032\" he=\"8\" wi=\"7\" file=\"pat00032.jpg\" img-format=\"jpg\" />은 롤 댐핑 (roll damping) 이며, <img id=\"i0033\" he=\"5\" wi=\"4\" file=\"pat00033.jpg\" img-format=\"jpg\" />는 무게중심에서 전륜 휠 중심까지 거리이고, <img id=\"i0034\" he=\"6\" wi=\"4\" file=\"pat00034.jpg\" img-format=\"jpg\" />는 무게중심에서 후륜 휠 중심까지 거리이며, <img id=\"i0035\" he=\"8\" wi=\"6\" file=\"pat00035.jpg\" img-format=\"jpg\" />는 롤 축에서 스프렁 무게중심 거리이고, <img id=\"i0036\" he=\"8\" wi=\"8\" file=\"pat00036.jpg\" img-format=\"jpg\" />는 트랙션 힘 (traction force)이며, <img id=\"i0037\" he=\"8\" wi=\"8\" file=\"pat00037.jpg\" img-format=\"jpg\" />, <img id=\"i0038\" he=\"8\" wi=\"8\" file=\"pat00038.jpg\" img-format=\"jpg\" />은 타이어 횡력이고, vx 는　전진방향속도(longitudinal speed)이며, vy 는　횡방향속도(lateral speed)이고, r 는 요속도(yaw rate)이며, df 는 휠조타각(wheel steer angle)이고, p 는 롤 속도(roll rate)이며, f 는　롤각(roll angle)이고, g 는 중력가속도임)",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020110120654",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112011091219211",
+    "petitionclauseNumber": "6",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "청구항 5에 있어서,<br />상기 칼만 추정은 하기 식(3)과 같이 주어짐을 특징으로 하는 타이어 횡력 검출장치. <br /><br /><img id=\"i0039\" he=\"34\" wi=\"217\" file=\"pat00039.jpg\" img-format=\"jpg\" /> (3)<br />(식 (3)에서, <b><u>x</u></b> 는 확장 상태 변수 벡터(augmented state vector)이고, <img id=\"i0040\" he=\"8\" wi=\"5\" file=\"pat00040.jpg\" img-format=\"jpg\" /> 는 추정 상태 변수 벡터(estimation state vector)이며, <b>f</b> 는 시스템 벡터이고, <b>K</b> 는 칼만 게인(Kalman gain)이며, <b><u>z</u></b> 는 측정변수벡터(output vector)이며, <b>h</b> 는 측정 시스템 벡터이고, <b>P</b> 는 공분산행렬이며, <b>F</b> 는 시스템 국부 행렬이고, <b>Q</b> 는 진행잡음행렬(process-noise matrix)이며, <b>H</b> 는 측정 시스템 국부 행렬이며, <b>R</b> 은 측정 잡음 행렬임)",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020110120654",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112013072716034",
+    "petitionclauseNumber": "1",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "타이어 횡력 검출방법에 있어서, <br />다수의 센서가 장착된 실제 차량으로 주행 시험을 수행하여 차량 거동에 대한 데이터를 센서로부터 수집하는 단계;<br />다수의 센서로부터 수집된 데이터를 횡력 연산검출부에서 기준 차량 모델과 칼만(Kalman) 추정 수식에 적용하여 식(1)의 타이어 횡력을 결정하는 매개변수를 추정하는 단계; 및<br />실차 주행 시험부의 데이터와 비교하여 오차를 최소화하는 방향으로 식(1) 타이어의 매개변수를 추정하는 단계를 포함하되, <br />상기 기준 차량 모델에 적용되는 운동이 식(2)와 같이 주어짐을 특징으로 하는 타이어 횡력 검출방법. <br />{<br /><img id=\"i0023\" he=\"15\" wi=\"192\" file=\"pat00023.jpg\" img-format=\"jpg\" /><sub> (1)</sub><br />(여기서, <img id=\"i0024\" he=\"7\" wi=\"7\" file=\"pat00047.tif\" img-format=\"tif\" />는 타이어에서 발생하는 슬립각이며, B<sub>i</sub>, C<sub>i</sub>, D<sub>i</sub>, E<sub>i</sub>는 타이어의 횡력 특성을 결정하는 매개변수임)}<br />{<br /><img id=\"i0025\" he=\"81\" wi=\"215\" file=\"pat00048.jpg\" img-format=\"jpg\" /> ----(2)<br />(식 (2)에서, <img id=\"i0026\" he=\"5\" wi=\"6\" file=\"pat00049.jpg\" img-format=\"jpg\" />은 차량의 질량, <img id=\"i0027\" he=\"8\" wi=\"7\" file=\"pat00050.jpg\" img-format=\"jpg\" />는 스프링 질량 (sprung mass) 이고, <img id=\"i0028\" he=\"8\" wi=\"7\" file=\"pat00051.jpg\" img-format=\"jpg\" />, <img id=\"i0029\" he=\"8\" wi=\"8\" file=\"pat00052.jpg\" img-format=\"jpg\" />, <img id=\"i0030\" he=\"8\" wi=\"8\" file=\"pat00053.jpg\" img-format=\"jpg\" />은 회전관성모멘트 (moment of inertia) 이며, <img id=\"i0031\" he=\"8\" wi=\"6\" file=\"pat00054.jpg\" img-format=\"jpg\" />은 롤 강성 (roll stiffness) 이고, <img id=\"i0032\" he=\"8\" wi=\"7\" file=\"pat00055.jpg\" img-format=\"jpg\" />은 롤 댐핑 (roll damping) 이며, <img id=\"i0033\" he=\"5\" wi=\"4\" file=\"pat00056.jpg\" img-format=\"jpg\" />는 무게중심에서 전륜 휠 중심까지 거리이고, <img id=\"i0034\" he=\"6\" wi=\"4\" file=\"pat00057.jpg\" img-format=\"jpg\" />는 무게중심에서 후륜 휠 중심까지 거리이며, <img id=\"i0035\" he=\"8\" wi=\"6\" file=\"pat00058.jpg\" img-format=\"jpg\" />는 롤 축에서 스프렁 무게중심 거리이고, <img id=\"i0036\" he=\"8\" wi=\"8\" file=\"pat00059.jpg\" img-format=\"jpg\" />는 트랙션 힘 (traction force)이며, <img id=\"i0037\" he=\"8\" wi=\"8\" file=\"pat00060.jpg\" img-format=\"jpg\" />, <img id=\"i0038\" he=\"8\" wi=\"8\" file=\"pat00061.jpg\" img-format=\"jpg\" />은 타이어 횡력이고, vx 는　전진방향속도(longitudinal speed)이며, vy 는　횡방향속도(lateral speed)이고, r 는 요속도(yaw rate)이며, <img id=\"i0039\" he=\"7\" wi=\"8\" file=\"pat00062.jpg\" img-format=\"jpg\" /> 는 휠조타각(wheel steer angle)이고, p 는 롤 속도(roll rate)이며, <img id=\"i0040\" he=\"8\" wi=\"6\" file=\"pat00063.jpg\" img-format=\"jpg\" /> 는　롤각(roll angle)이고, g 는 중력가속도임)}",
+    "transferReceiptDocNumber": "112011091219211",
+    "transferPetitionclause": "타이어 횡력 검출방법에 있어서, <br />다수의 센서가 장착된 실제 차량으로 주행 시험을 수행하여 차량 거동에 대한 데이터를 센서로부터 수집하는 단계;<br />다수의 센서로부터 수집된 데이터를 횡력 연산검출부에서 기준 차량 모델과 칼만(Kalman) 추정 수식에 적용하여 식(1)의 타이어 횡력을 결정하는 매개변수를 추정하는 단계; 및<br />실차 주행 시험부의 데이터와 비교하여 오차를 최소화하는 방향으로 식(1) 타이어의 매개변수를 추정하는 단계를 포함<Del>한</Del><Ins>하되, <br />상기 기준 차량 모델에 적용되는 운동이 식(2)와 같이 주어짐을 특징으로 하는</Ins> 타이어 횡력 검출방법.<br /><Ins>{</Ins><Del><img id=\"i0023\" he=\"15\" wi=\"192\" file=\"pat00023.jpg\" img-format=\"jpg\" /></Del><Ins><br /><img id=\"i0023\" he=\"15\" wi=\"192\" file=\"pat00023.jpg\" img-format=\"jpg\" /></Ins><sub> (1)</sub><br />(여기서, <Del>α</Del><Del><sub>i</sub></Del><Ins><img id=\"i0024\" he=\"7\" wi=\"7\" file=\"pat00047.tif\" img-format=\"tif\" /></Ins>는 타이어에서 발생하는 슬립각이며, B<sub>i</sub>, C<sub>i</sub>, D<sub>i</sub>, E<sub>i</sub>는 타이어의 횡력 특성을 결정하는 매개변수임)<Ins>}<br />{<br /><img id=\"i0025\" he=\"81\" wi=\"215\" file=\"pat00048.jpg\" img-format=\"jpg\" /> ----(2)<br />(식 (2)에서, <img id=\"i0026\" he=\"5\" wi=\"6\" file=\"pat00049.jpg\" img-format=\"jpg\" />은 차량의 질량, <img id=\"i0027\" he=\"8\" wi=\"7\" file=\"pat00050.jpg\" img-format=\"jpg\" />는 스프링 질량 (sprung mass) 이고, <img id=\"i0028\" he=\"8\" wi=\"7\" file=\"pat00051.jpg\" img-format=\"jpg\" />, <img id=\"i0029\" he=\"8\" wi=\"8\" file=\"pat00052.jpg\" img-format=\"jpg\" />, <img id=\"i0030\" he=\"8\" wi=\"8\" file=\"pat00053.jpg\" img-format=\"jpg\" />은 회전관성모멘트 (moment of inertia) 이며, <img id=\"i0031\" he=\"8\" wi=\"6\" file=\"pat00054.jpg\" img-format=\"jpg\" />은 롤 강성 (roll stiffness) 이고, <img id=\"i0032\" he=\"8\" wi=\"7\" file=\"pat00055.jpg\" img-format=\"jpg\" />은 롤 댐핑 (roll damping) 이며, <img id=\"i0033\" he=\"5\" wi=\"4\" file=\"pat00056.jpg\" img-format=\"jpg\" />는 무게중심에서 전륜 휠 중심까지 거리이고, <img id=\"i0034\" he=\"6\" wi=\"4\" file=\"pat00057.jpg\" img-format=\"jpg\" />는 무게중심에서 후륜 휠 중심까지 거리이며, <img id=\"i0035\" he=\"8\" wi=\"6\" file=\"pat00058.jpg\" img-format=\"jpg\" />는 롤 축에서 스프렁 무게중심 거리이고, <img id=\"i0036\" he=\"8\" wi=\"8\" file=\"pat00059.jpg\" img-format=\"jpg\" />는 트랙션 힘 (traction force)이며, <img id=\"i0037\" he=\"8\" wi=\"8\" file=\"pat00060.jpg\" img-format=\"jpg\" />, <img id=\"i0038\" he=\"8\" wi=\"8\" file=\"pat00061.jpg\" img-format=\"jpg\" />은 타이어 횡력이고, vx 는　전진방향속도(longitudinal speed)이며, vy 는　횡방향속도(lateral speed)이고, r 는 요속도(yaw rate)이며, <img id=\"i0039\" he=\"7\" wi=\"8\" file=\"pat00062.jpg\" img-format=\"jpg\" /> 는 휠조타각(wheel steer angle)이고, p 는 롤 속도(roll rate)이며, <img id=\"i0040\" he=\"8\" wi=\"6\" file=\"pat00063.jpg\" img-format=\"jpg\" /> 는　롤각(roll angle)이고, g 는 중력가속도임)}</Ins>"
+  },
+  {
+    "applicationNumber": "1020110120654",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112013072716034",
+    "petitionclauseNumber": "3",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "타이어 횡력 검출장치에 있어서, <br />실제 차량으로 주행 시험을 수행하여 차량 거동에 대한 데이터를 수집하기 위하여 차량에 부착 설치되는 다수의 센서;<br />다수의 센서로부터 수집된 데이터를 기준 차량 모델과 칼만(Kalman) 추정 수식에 적용하여 식(1)의 타이어 횡력을 결정하는 매개변수를 연산하는 횡력 연산검출부; 및 <br />실차 주행 시험부의 데이터와 비교하여 오차를 최소화하는 방향으로 식(1) 타이어의 매개변수를 추정하는 수단으로 구성하되, <br />상기 기준 차량 모델에 적용되는 운동이 식(2)와 같이 주어짐을 특징으로 하는 타이어 횡력 검출장치.<br />{<br /><img id=\"i0041\" he=\"15\" wi=\"192\" file=\"pat00064.jpg\" img-format=\"jpg\" /><sub> -------------------- </sub>(1)<br />(여기서, α<sub>i</sub>는 타이어에서 발생하는 슬립각이며, B<sub>i</sub>, C<sub>i</sub>, D<sub>i</sub>, E<sub>i</sub>는 타이어의 횡력 특성을 결정하는 매개변수임)}<br />{<br /><img id=\"i0042\" he=\"81\" wi=\"215\" file=\"pat00065.jpg\" img-format=\"jpg\" /><br />-------- (2)<br />(식 (2)에서, <img id=\"i0043\" he=\"5\" wi=\"6\" file=\"pat00066.jpg\" img-format=\"jpg\" />은 차량의 질량, <img id=\"i0044\" he=\"8\" wi=\"7\" file=\"pat00067.jpg\" img-format=\"jpg\" />는 스프링 질량 (sprung mass) 이고, <img id=\"i0045\" he=\"8\" wi=\"7\" file=\"pat00068.jpg\" img-format=\"jpg\" />, <img id=\"i0046\" he=\"8\" wi=\"8\" file=\"pat00069.jpg\" img-format=\"jpg\" />, <img id=\"i0047\" he=\"8\" wi=\"8\" file=\"pat00070.jpg\" img-format=\"jpg\" />은 회전관성모멘트 (moment of inertia) 이며, <img id=\"i0048\" he=\"8\" wi=\"6\" file=\"pat00071.jpg\" img-format=\"jpg\" />은 롤 강성 (roll stiffness) 이고, <img id=\"i0049\" he=\"8\" wi=\"7\" file=\"pat00072.jpg\" img-format=\"jpg\" />은 롤 댐핑 (roll damping) 이며, <img id=\"i0050\" he=\"5\" wi=\"4\" file=\"pat00073.jpg\" img-format=\"jpg\" />는 무게중심에서 전륜 휠 중심까지 거리이고, <img id=\"i0051\" he=\"6\" wi=\"4\" file=\"pat00074.jpg\" img-format=\"jpg\" />는 무게중심에서 후륜 휠 중심까지 거리이며, <img id=\"i0052\" he=\"8\" wi=\"6\" file=\"pat00075.jpg\" img-format=\"jpg\" />는 롤 축에서 스프렁 무게중심 거리이고, <img id=\"i0053\" he=\"8\" wi=\"8\" file=\"pat00076.jpg\" img-format=\"jpg\" />는 트랙션 힘 (traction force)이며, <img id=\"i0054\" he=\"8\" wi=\"8\" file=\"pat00077.jpg\" img-format=\"jpg\" />, <img id=\"i0055\" he=\"8\" wi=\"8\" file=\"pat00078.jpg\" img-format=\"jpg\" />은 타이어 횡력이고, vx 는　전진방향속도(longitudinal speed)이며, vy 는　횡방향속도(lateral speed)이고, r 는 요속도(yaw rate)이며, <img id=\"i0056\" he=\"7\" wi=\"8\" file=\"pat00079.jpg\" img-format=\"jpg\" /> 는 휠조타각(wheel steer angle)이고, p 는 롤 속도(roll rate)이며, <img id=\"i0057\" he=\"8\" wi=\"6\" file=\"pat00080.jpg\" img-format=\"jpg\" /> 는　롤각(roll angle)이고, g 는 중력가속도임)}",
+    "transferReceiptDocNumber": "112011091219211",
+    "transferPetitionclause": "타이어 횡력 검출장치에 있어서, <br />실제 차량으로 주행 시험을 수행하여 차량 거동에 대한 데이터를 수집하기 위하여 차량에 부착 설치되는 다수의 센서;<br />다수의 센서로부터 수집된 데이터를 기준 차량 모델과 칼만(Kalman) 추정 수식에 적용하여 식(1)의 타이어 횡력을 결정하는 매개변수를 연산하는 횡력 연산검출부; 및 <br />실차 주행 시험부의 데이터와 비교하여 오차를 최소화하는 방향으로 식(1) 타이어의 매개변수를 추정하는 수단으로 구성<Del>된</Del><Ins>하되, <br />상기 기준 차량 모델에 적용되는 운동이 식(2)와 같이 주어짐을 특징으로 하는</Ins> 타이어 횡력 검출장치.<br /><Ins>{</Ins><Del><img id=\"i0024\" he=\"15\" wi=\"192\" file=\"pat00024.jpg\" img-format=\"jpg\" /></Del><Ins><br /></Ins><Del><sub> (1)</sub></Del><Ins><img id=\"i0041\" he=\"15\" wi=\"192\" file=\"pat00064.jpg\" img-format=\"jpg\" /></Ins><Del><br /></Del><Ins><sub> -------------------- </sub>(1)<br /></Ins>(여기서, α<sub>i</sub>는 타이어에서 발생하는 슬립각이며, B<sub>i</sub>, C<sub>i</sub>, D<sub>i</sub>, E<sub>i</sub>는 타이어의 횡력 특성을 결정하는 매개변수임)<Ins>}<br />{<br /><img id=\"i0042\" he=\"81\" wi=\"215\" file=\"pat00065.jpg\" img-format=\"jpg\" /><br />-------- (2)<br />(식 (2)에서, <img id=\"i0043\" he=\"5\" wi=\"6\" file=\"pat00066.jpg\" img-format=\"jpg\" />은 차량의 질량, <img id=\"i0044\" he=\"8\" wi=\"7\" file=\"pat00067.jpg\" img-format=\"jpg\" />는 스프링 질량 (sprung mass) 이고, <img id=\"i0045\" he=\"8\" wi=\"7\" file=\"pat00068.jpg\" img-format=\"jpg\" />, <img id=\"i0046\" he=\"8\" wi=\"8\" file=\"pat00069.jpg\" img-format=\"jpg\" />, <img id=\"i0047\" he=\"8\" wi=\"8\" file=\"pat00070.jpg\" img-format=\"jpg\" />은 회전관성모멘트 (moment of inertia) 이며, <img id=\"i0048\" he=\"8\" wi=\"6\" file=\"pat00071.jpg\" img-format=\"jpg\" />은 롤 강성 (roll stiffness) 이고, <img id=\"i0049\" he=\"8\" wi=\"7\" file=\"pat00072.jpg\" img-format=\"jpg\" />은 롤 댐핑 (roll damping) 이며, <img id=\"i0050\" he=\"5\" wi=\"4\" file=\"pat00073.jpg\" img-format=\"jpg\" />는 무게중심에서 전륜 휠 중심까지 거리이고, <img id=\"i0051\" he=\"6\" wi=\"4\" file=\"pat00074.jpg\" img-format=\"jpg\" />는 무게중심에서 후륜 휠 중심까지 거리이며, <img id=\"i0052\" he=\"8\" wi=\"6\" file=\"pat00075.jpg\" img-format=\"jpg\" />는 롤 축에서 스프렁 무게중심 거리이고, <img id=\"i0053\" he=\"8\" wi=\"8\" file=\"pat00076.jpg\" img-format=\"jpg\" />는 트랙션 힘 (traction force)이며, <img id=\"i0054\" he=\"8\" wi=\"8\" file=\"pat00077.jpg\" img-format=\"jpg\" />, <img id=\"i0055\" he=\"8\" wi=\"8\" file=\"pat00078.jpg\" img-format=\"jpg\" />은 타이어 횡력이고, vx 는　전진방향속도(longitudinal speed)이며, vy 는　횡방향속도(lateral speed)이고, r 는 요속도(yaw rate)이며, <img id=\"i0056\" he=\"7\" wi=\"8\" file=\"pat00079.jpg\" img-format=\"jpg\" /> 는 휠조타각(wheel steer angle)이고, p 는 롤 속도(roll rate)이며, <img id=\"i0057\" he=\"8\" wi=\"6\" file=\"pat00080.jpg\" img-format=\"jpg\" /> 는　롤각(roll angle)이고, g 는 중력가속도임)}</Ins>"
+  },
+  {
+    "applicationNumber": "1020110120654",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112013072716034",
+    "petitionclauseNumber": "5",
+    "changeTypeCode": "D",
+    "changeTypeName": "삭제",
+    "petitionclause": " ",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020110120654",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112013072716034",
+    "petitionclauseNumber": "6",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "청구항 3에 있어서,<br />상기 칼만 추정은 하기 식(3)과 같이 주어짐을 특징으로 하는 타이어 횡력 검출장치. <br />{<img id=\"i0058\" he=\"34\" wi=\"217\" file=\"pat00039.jpg\" img-format=\"jpg\" /> ---------- (3)<br />(식 (3)에서, <b><u>x</u></b> 는 확장 상태 변수 벡터(augmented state vector)이고, <img id=\"i0059\" he=\"8\" wi=\"5\" file=\"pat00040.jpg\" img-format=\"jpg\" /> 는 추정 상태 변수 벡터(estimation state vector)이며, <b>f</b> 는 롤각이고, <b>K</b> 는 칼만 게인(Kalman gain)이며, <b><u>z</u></b> 는 측정변수벡터(output vector)이며, <b>h</b> 는 측정 시스템 벡터이고, <b>P</b> 는 공분산행렬이며, <b>F</b> 는 시스템 국부 행렬이고, <b>Q</b> 는 진행잡음행렬(process-noise matrix)이며, <b>H</b> 는 측정 시스템 국부 행렬이며, <b>R</b> 은 측정 잡음 행렬임)}",
+    "transferReceiptDocNumber": "112011091219211",
+    "transferPetitionclause": "청구항 <Del>5</Del><Ins>3</Ins>에 있어서,<br />상기 칼만 추정은 하기 식(3)과 같이 주어짐을 특징으로 하는 타이어 횡력 검출장치. <br /><Ins>{</Ins><Del><br /><img id=\"i0039\" he=\"34\" wi=\"217\" file=\"pat00039.jpg\" img-format=\"jpg\" /></Del><Ins><img id=\"i0058\" he=\"34\" wi=\"217\" file=\"pat00039.jpg\" img-format=\"jpg\" /> ----------</Ins> (3)<br />(식 (3)에서, x 는 확장 상태 변수 벡터(augmented state vector)이고, <Del><img id=\"i0040\" he=\"8\" wi=\"5\" file=\"pat00040.jpg\" img-format=\"jpg\" /></Del><Ins><img id=\"i0059\" he=\"8\" wi=\"5\" file=\"pat00040.jpg\" img-format=\"jpg\" /></Ins> 는 추정 상태 변수 벡터(estimation state vector)이며, f 는 <Del>시스템 벡터</Del><Ins>롤각</Ins>이고, K 는 칼만 게인(Kalman gain)이며, z 는 측정변수벡터(output vector)이며, h 는 측정 시스템 벡터이고, P 는 공분산행렬이며, F 는 시스템 국부 행렬이고, Q 는 진행잡음행렬(process-noise matrix)이며, H 는 측정 시스템 국부 행렬이며, R 은 측정 잡음 행렬임)<Ins>}</Ins>"
+  }
+]

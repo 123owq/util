@@ -1,0 +1,46 @@
+[
+  {
+    "applicationNumber": "1020110127710",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112011095665221",
+    "petitionclauseNumber": "1",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "가류시킬 그린타이어(1)를 가류기(2)의 가류금형에 투입하는 로더(3)가 승하강 실린더(4)에 의해 승하강 작동되고 가류기(2)의 가류금형에 투입되는 가류시킬 그린타이어(1)의 가류시간을 설정하는 방법에 있어서,<br />상기 가류 전 그린타이어(1)를 투입하는 로더(3)의 적외선 온도센서(5)에 의해 그린타이어(1)의 실제온도를 측정하는 단계와, 측정된 그린타이어(1)의 실제온도를 PLC(6)에 전송하는 단계 및, 상기 PLC(6)에서 그린타이어(1)의 실제온도를 근거로 가류기(2)로 가류시간을 설정하여 인가시키는 단계로 이루어진 것을 특징으로 하는 그린타이어 가류시간 설정방법.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020110127710",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112011095665221",
+    "petitionclauseNumber": "2",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 1항에 있어서,<br />상기 PLC(6)에서 가류기(2)로 가류시간을 설정하여 인가시키는 단계에서 가류시간 설정은 그린타이어의 가류 안전시간이 온도변수에 따라 변하므로 연중 평균 그린타이어(1)의 온도에서 실제 측정온도를 고려하여 산출하는 것을 특징으로 하는 그린타이어 가류시간 설정방법.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020110127710",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112013052897616",
+    "petitionclauseNumber": "1",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "가류시킬 그린타이어(1)를 가류기(2)의 가류금형에 투입하는 로더(3)가 승하강 실린더(4)에 의해 승하강 작동되고 가류기(2)의 가류금형에 투입되는 가류시킬 그린타이어(1)의 가류시간을 설정하는 방법에 있어서,<br />상기 가류 전 그린타이어(1)를 투입하는 로더(3)의 적외선 온도센서(5)에 의해 그린타이어(1)의 실제온도를 측정하는 단계와, 측정된 그린타이어(1)의 실제온도를 PLC(6, Programmable Logic Controller)에 전송하는 단계 및, 상기 PLC(6)에서 그린타이어(1)의 실제온도를 근거로 가류기(2)로 가류시간을 설정하여 인가시키는 단계로 이루어진 것을 특징으로 하는 그린타이어 가류시간 설정방법.",
+    "transferReceiptDocNumber": "112011095665221",
+    "transferPetitionclause": "가류시킬 그린타이어(1)를 가류기(2)의 가류금형에 투입하는 로더(3)가 승하강 실린더(4)에 의해 승하강 작동되고 가류기(2)의 가류금형에 투입되는 가류시킬 그린타이어(1)의 가류시간을 설정하는 방법에 있어서,<br />상기 가류 전 그린타이어(1)를 투입하는 로더(3)의 적외선 온도센서(5)에 의해 그린타이어(1)의 실제온도를 측정하는 단계와, 측정된 그린타이어(1)의 실제온도를 PLC(6<Ins>, Programmable Logic Controller</Ins>)에 전송하는 단계 및, 상기 PLC(6)에서 그린타이어(1)의 실제온도를 근거로 가류기(2)로 가류시간을 설정하여 인가시키는 단계로 이루어진 것을 특징으로 하는 그린타이어 가류시간 설정방법."
+  },
+  {
+    "applicationNumber": "1020110127710",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112013052897616",
+    "petitionclauseNumber": "2",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "제 1항에 있어서,<br />상기 PLC(6, Programmable Logic Controller)에서 가류기(2)로 가류시간을 설정하여 인가시키는 단계에서 가류시간 설정은 그린타이어의 가류 안전시간이 온도변수에 따라 변하므로 연중 평균 그린타이어(1)의 온도에서 실제 측정온도를 고려하여 가류시간이 설정되도록 연산되는 것을 특징으로 하는 그린타이어 가류시간 설정방법.<br />",
+    "transferReceiptDocNumber": "112011095665221",
+    "transferPetitionclause": "제 1항에 있어서,<br />상기 PLC(6<Ins>, Programmable Logic Controller</Ins>)에서 가류기(2)로 가류시간을 설정하여 인가시키는 단계에서 가류시간 설정은 그린타이어의 가류 안전시간이 온도변수에 따라 변하므로 연중 평균 그린타이어(1)의 온도에서 실제 측정온도를 고려하여 <Ins>가류시간이 설정되도록 연</Ins>산<Del>출하</Del><Ins>되</Ins>는 것을 특징으로 하는 그린타이어 가류시간 설정방법.<br />"
+  }
+]

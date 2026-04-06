@@ -1,0 +1,58 @@
+[
+  {
+    "ApplicationNumber": "1020230134627",
+    "OriginalcitationLiteraturenumber": "공개특허공보 제1020230080992호20230607 1부",
+    "OriginalcitationLiteraturenumberDate": "20230607",
+    "StandardCitationLiteraturenumber": "1020230080992",
+    "StandardCitationLiteratureCountryCode": "KR",
+    "StandardCitationLiteratureCountryCodeName": "대한민국",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "20230607",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0801",
+    "CitationLiteratureTypeCodeName": "발송문서"
+  },
+  {
+    "ApplicationNumber": "1020230134627",
+    "OriginalcitationLiteraturenumber": "KR1020230080992 A",
+    "OriginalcitationLiteraturenumberDate": " ",
+    "StandardCitationLiteraturenumber": "1020230080992",
+    "StandardCitationLiteratureCountryCode": "KR",
+    "StandardCitationLiteratureCountryCodeName": "대한민국",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "20230607",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0805",
+    "CitationLiteratureTypeCodeName": "선행기술조사문헌"
+  },
+  {
+    "ApplicationNumber": "1020230134627",
+    "OriginalcitationLiteraturenumber": "대한민국 등록특허 제102370131호 재고량 검출 시스템을 이용한 인공지능AI 통합 생산관리시스템 및 그를 이용한 통합 생산관리방법 등록일자 2022년02",
+    "OriginalcitationLiteraturenumberDate": " ",
+    "StandardCitationLiteraturenumber": "1023701310000",
+    "StandardCitationLiteratureCountryCode": "KR",
+    "StandardCitationLiteratureCountryCodeName": "대한민국",
+    "StandardCitationIdentificationCode": "B1",
+    "StandardCitationLiteraturePublicationDate": "20220228",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0806",
+    "CitationLiteratureTypeCodeName": "출원서인용문헌이력정보"
+  },
+  {
+    "ApplicationNumber": "1020230134627",
+    "OriginalcitationLiteraturenumber": "대한민국 공개특허 제1020220047535호 AI 기반의 사전 훈련 모델 결정 시스템 및 이를 이용한 제품 생산 라인을 위한 AI 기반의 비전 검사 관리 시스템 공",
+    "OriginalcitationLiteraturenumberDate": " ",
+    "StandardCitationLiteraturenumber": "1020220047535",
+    "StandardCitationLiteratureCountryCode": "KR",
+    "StandardCitationLiteratureCountryCodeName": "대한민국",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "20220418",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0806",
+    "CitationLiteratureTypeCodeName": "출원서인용문헌이력정보"
+  }
+]

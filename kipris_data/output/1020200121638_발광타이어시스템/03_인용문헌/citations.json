@@ -1,0 +1,72 @@
+[
+  {
+    "ApplicationNumber": "1020200121638",
+    "OriginalcitationLiteraturenumber": "일본 공개특허공보 특개2005227752호20050825 1부",
+    "OriginalcitationLiteraturenumberDate": "20050825",
+    "StandardCitationLiteraturenumber": "17227752",
+    "StandardCitationLiteratureCountryCode": "JP",
+    "StandardCitationLiteratureCountryCodeName": "일본",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "20050825",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0801",
+    "CitationLiteratureTypeCodeName": "발송문서"
+  },
+  {
+    "ApplicationNumber": "1020200121638",
+    "OriginalcitationLiteraturenumber": "일본 공개특허공보 특개2005231519호20050902 1부",
+    "OriginalcitationLiteraturenumberDate": "20050902",
+    "StandardCitationLiteraturenumber": "17231519",
+    "StandardCitationLiteratureCountryCode": "JP",
+    "StandardCitationLiteratureCountryCodeName": "일본",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "20050902",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0801",
+    "CitationLiteratureTypeCodeName": "발송문서"
+  },
+  {
+    "ApplicationNumber": "1020200121638",
+    "OriginalcitationLiteraturenumber": "일본 공개특허공보 특개2005227752호20050825 1부",
+    "OriginalcitationLiteraturenumberDate": "20050825",
+    "StandardCitationLiteraturenumber": "17227752",
+    "StandardCitationLiteratureCountryCode": "JP",
+    "StandardCitationLiteratureCountryCodeName": "일본",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "20050825",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0801",
+    "CitationLiteratureTypeCodeName": "발송문서"
+  },
+  {
+    "ApplicationNumber": "1020200121638",
+    "OriginalcitationLiteraturenumber": "공개특허공보 제1020200071201호20200619 1부",
+    "OriginalcitationLiteraturenumberDate": "20200619",
+    "StandardCitationLiteraturenumber": "1020200071201",
+    "StandardCitationLiteratureCountryCode": "KR",
+    "StandardCitationLiteratureCountryCodeName": "대한민국",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "20200619",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0801",
+    "CitationLiteratureTypeCodeName": "발송문서"
+  },
+  {
+    "ApplicationNumber": "1020200121638",
+    "OriginalcitationLiteraturenumber": "일본 공개특허공보 특개2005231519호20050902 1부",
+    "OriginalcitationLiteraturenumberDate": "20050902",
+    "StandardCitationLiteraturenumber": "17231519",
+    "StandardCitationLiteratureCountryCode": "JP",
+    "StandardCitationLiteratureCountryCodeName": "일본",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "20050902",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0801",
+    "CitationLiteratureTypeCodeName": "발송문서"
+  }
+]

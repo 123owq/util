@@ -1,0 +1,30 @@
+[
+  {
+    "ApplicationNumber": "1020200171574",
+    "OriginalcitationLiteraturenumber": "공개특허공보 제1020190010966호20190201 1부",
+    "OriginalcitationLiteraturenumberDate": "20190201",
+    "StandardCitationLiteraturenumber": "1020190010966",
+    "StandardCitationLiteratureCountryCode": "KR",
+    "StandardCitationLiteratureCountryCodeName": "대한민국",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "20190201",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0801",
+    "CitationLiteratureTypeCodeName": "발송문서"
+  },
+  {
+    "ApplicationNumber": "1020200171574",
+    "OriginalcitationLiteraturenumber": "한국등록특허 제1019579900000호",
+    "OriginalcitationLiteraturenumberDate": " ",
+    "StandardCitationLiteraturenumber": "10195799000000000",
+    "StandardCitationLiteratureCountryCode": "KR",
+    "StandardCitationLiteratureCountryCodeName": "대한민국",
+    "StandardCitationIdentificationCode": " ",
+    "StandardCitationLiteraturePublicationDate": " ",
+    "StandardStatusCode": "99999",
+    "StandardStatusCodeName": "비표준화",
+    "CitationLiteratureTypeCode": "E0806",
+    "CitationLiteratureTypeCodeName": "출원서인용문헌이력정보"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "ApplicationNumber": "1020200173822",
+    "OriginalcitationLiteraturenumber": "공개특허공보 제1020180064515호20180614 1부",
+    "OriginalcitationLiteraturenumberDate": "20180614",
+    "StandardCitationLiteraturenumber": "1020180064515",
+    "StandardCitationLiteratureCountryCode": "KR",
+    "StandardCitationLiteratureCountryCodeName": "대한민국",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "20180614",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0801",
+    "CitationLiteratureTypeCodeName": "발송문서"
+  },
+  {
+    "ApplicationNumber": "1020200173822",
+    "OriginalcitationLiteraturenumber": "공개특허공보 제1020200036347호20200407 1부",
+    "OriginalcitationLiteraturenumberDate": "20200407",
+    "StandardCitationLiteraturenumber": "1020200036347",
+    "StandardCitationLiteratureCountryCode": "KR",
+    "StandardCitationLiteratureCountryCodeName": "대한민국",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "20200407",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0801",
+    "CitationLiteratureTypeCodeName": "발송문서"
+  },
+  {
+    "ApplicationNumber": "1020200173822",
+    "OriginalcitationLiteraturenumber": "공개특허공보 제1020000050424호20000805 1부",
+    "OriginalcitationLiteraturenumberDate": "20000805",
+    "StandardCitationLiteraturenumber": "1020000050424",
+    "StandardCitationLiteratureCountryCode": "KR",
+    "StandardCitationLiteratureCountryCodeName": "대한민국",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "20000805",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0801",
+    "CitationLiteratureTypeCodeName": "발송문서"
+  },
+  {
+    "ApplicationNumber": "1020200173822",
+    "OriginalcitationLiteraturenumber": "미국 등록특허 US9889617 B220130620",
+    "OriginalcitationLiteraturenumberDate": "20130620",
+    "StandardCitationLiteraturenumber": "09889617",
+    "StandardCitationLiteratureCountryCode": "US",
+    "StandardCitationLiteratureCountryCodeName": "미국",
+    "StandardCitationIdentificationCode": "B2",
+    "StandardCitationLiteraturePublicationDate": "20180213",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0806",
+    "CitationLiteratureTypeCodeName": "출원서인용문헌이력정보"
+  },
+  {
+    "ApplicationNumber": "1020200173822",
+    "OriginalcitationLiteraturenumber": "독일 공개특허 DE 10201821602720200326",
+    "OriginalcitationLiteraturenumberDate": "20200326",
+    "StandardCitationLiteraturenumber": "102018216027",
+    "StandardCitationLiteratureCountryCode": "DE",
+    "StandardCitationLiteratureCountryCodeName": "독일",
+    "StandardCitationIdentificationCode": "A1",
+    "StandardCitationLiteraturePublicationDate": "20200326",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0806",
+    "CitationLiteratureTypeCodeName": "출원서인용문헌이력정보"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "ApplicationNumber": "1020240017807",
+    "OriginalcitationLiteraturenumber": "KR101931696 B1",
+    "OriginalcitationLiteraturenumberDate": " ",
+    "StandardCitationLiteraturenumber": " ",
+    "StandardCitationLiteratureCountryCode": "KR",
+    "StandardCitationLiteratureCountryCodeName": "대한민국",
+    "StandardCitationIdentificationCode": " ",
+    "StandardCitationLiteraturePublicationDate": " ",
+    "StandardStatusCode": "99999",
+    "StandardStatusCodeName": "비표준화",
+    "CitationLiteratureTypeCode": "E0805",
+    "CitationLiteratureTypeCodeName": "선행기술조사문헌"
+  },
+  {
+    "ApplicationNumber": "1020240017807",
+    "OriginalcitationLiteraturenumber": "US11298920 B2",
+    "OriginalcitationLiteraturenumberDate": " ",
+    "StandardCitationLiteraturenumber": " ",
+    "StandardCitationLiteratureCountryCode": "US",
+    "StandardCitationLiteratureCountryCodeName": "미국",
+    "StandardCitationIdentificationCode": " ",
+    "StandardCitationLiteraturePublicationDate": " ",
+    "StandardStatusCode": "99999",
+    "StandardStatusCodeName": "비표준화",
+    "CitationLiteratureTypeCode": "E0805",
+    "CitationLiteratureTypeCodeName": "선행기술조사문헌"
+  },
+  {
+    "ApplicationNumber": "1020240017807",
+    "OriginalcitationLiteraturenumber": "US10639934 B2",
+    "OriginalcitationLiteraturenumberDate": " ",
+    "StandardCitationLiteraturenumber": " ",
+    "StandardCitationLiteratureCountryCode": "US",
+    "StandardCitationLiteratureCountryCodeName": "미국",
+    "StandardCitationIdentificationCode": " ",
+    "StandardCitationLiteraturePublicationDate": " ",
+    "StandardStatusCode": "99999",
+    "StandardStatusCodeName": "비표준화",
+    "CitationLiteratureTypeCode": "E0805",
+    "CitationLiteratureTypeCodeName": "선행기술조사문헌"
+  },
+  {
+    "ApplicationNumber": "1020240017807",
+    "OriginalcitationLiteraturenumber": "JP2021142852 A",
+    "OriginalcitationLiteraturenumberDate": " ",
+    "StandardCitationLiteraturenumber": " ",
+    "StandardCitationLiteratureCountryCode": "JP",
+    "StandardCitationLiteratureCountryCodeName": "일본",
+    "StandardCitationIdentificationCode": " ",
+    "StandardCitationLiteraturePublicationDate": " ",
+    "StandardStatusCode": "99999",
+    "StandardStatusCodeName": "비표준화",
+    "CitationLiteratureTypeCode": "E0805",
+    "CitationLiteratureTypeCodeName": "선행기술조사문헌"
+  },
+  {
+    "ApplicationNumber": "1020240017807",
+    "OriginalcitationLiteraturenumber": "KR1020210035947 A",
+    "OriginalcitationLiteraturenumberDate": " ",
+    "StandardCitationLiteraturenumber": "1020210035947",
+    "StandardCitationLiteratureCountryCode": "KR",
+    "StandardCitationLiteratureCountryCodeName": "대한민국",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "20210402",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0805",
+    "CitationLiteratureTypeCodeName": "선행기술조사문헌"
+  }
+]

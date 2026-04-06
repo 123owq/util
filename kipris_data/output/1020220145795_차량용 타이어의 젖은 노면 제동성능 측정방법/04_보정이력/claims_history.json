@@ -1,0 +1,101 @@
+[
+  {
+    "applicationNumber": "1020220145795",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112022117255010",
+    "petitionclauseNumber": "1",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "차량용 타이어의 젖은 노면 제동성능 측정방법에 있어서, <br />시험노면(110)이 설치되는 프레임(100)과, 상기 프레임(100)의 상부에 설치되며 상기 시험노면(110)에 마찰되는 고무시편(200)을 직선운동시키는 직선운동베어링(300)을 포함하여 구성되는 고무 마찰계수 측정기를 이용하여 고무시편의 마찰계수(μ)를 측정하는 단계(s100); 및<br />하기의 식1에 의해 제동거리(slip)를 산출하는 단계(s200);<br />를 포함하는 것을 특징으로 하는 차량용 타이어의 젖은 노면 제동성능 측정방법.<br />(식1)<img id=\"i0007\" he=\"21\" wi=\"141\" file=\"pat00007.jpg\" img-format=\"jpg\" /><br />μ : 마찰계수, 하첨자 0은 초기 마찰계수, peak는 최대마찰계수, ∞는 동마찰계수<br />V : Slip Velocity, 하첨자 max 최대마찰계수에서의 Slip Velocity<br /><img id=\"i0008\" he=\"19\" wi=\"30\" file=\"pat00008.jpg\" img-format=\"jpg\" />: Slip velocity",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020220145795",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112022117255010",
+    "petitionclauseNumber": "2",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제1항에 있어서, <br />상기 식1에 의해 제동거리(slip)를 산출하는 단계(s200)는,<br />슬립속도의 로그함수에 따른 마찰계수(μ)가 증가하는 A영역에서 상기 마찰계수(μ)는 하기 (식2)에 의해 산출되는 것을 특징으로 하는 차량용 타이어의 젖은 노면 제동성능 측정방법.<br />식2)<img id=\"i0009\" he=\"31\" wi=\"93\" file=\"pat00009.jpg\" img-format=\"jpg\" /><br />μ : 마찰계수, 하첨자 0은 초기 마찰계수, peak는 최대마찰계수, ∞는 동마찰계수<br />P : 접지압력, 하첨자 ref는 기준 압력<br />Pk : 노면 관련 형상인자<br />ELAS : Stick, Slip Zone 구분인자<br />V : Slip Velocity, 하첨자 max 최대마찰계수에서의 Slip Velocity<br /><img id=\"i0010\" he=\"19\" wi=\"30\" file=\"pat00010.jpg\" img-format=\"jpg\" />: Slip velocity",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020220145795",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112022117255010",
+    "petitionclauseNumber": "3",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제1항에 있어서, <br />상기 식1에 의해 제동거리(slip)를 산출하는 단계(s200)는,<br />슬립속도의 로그함수에 따른 마찰계수(μ)가 증가하는 B영역에서 상기 마찰계수(μ)는 하기 (식3) 에 의해 산출되는 것을 특징으로 하는 차량용 타이어의 젖은 노면 제동성능 측정방법.<br />식3) <img id=\"i0011\" he=\"27\" wi=\"81\" file=\"pat00011.jpg\" img-format=\"jpg\" /><br />μ : 마찰계수, 하첨자 0은 초기 마찰계수, peak는 최대마찰계수, ∞는 동마찰계수<br />P : 접지압력, 하첨자 ref는 기준 압력<br />Pk : 노면 관련 형상인자<br />ELAS : Stick, Slip Zone 구분인자<br />V : Slip Velocity, 하첨자 max 최대마찰계수에서의 Slip Velocity<br /><img id=\"i0012\" he=\"19\" wi=\"30\" file=\"pat00012.jpg\" img-format=\"jpg\" />: Slip velocity",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020220145795",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112022117255010",
+    "petitionclauseNumber": "4",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제1항에 있어서, <br />차량의 목표속도하에서의 젖은노면 주행성능 평가단계(s300);<br />를 포함하며, <br />상기 차량의 목표속도하에서의 젖은노면 주행성능 평가단계(s300)는,<br />유한요소시험평가모델에서 차량의 무게중심을 설정하는 단계(s310);<br />유한요소시험평가모델에서 차량의 속도차량의 속도를 설정하는 단계(s320); 및<br />설정된 속도에 대응되는 제2항 또는 제3항에서 산출된 마찰계수(μ)를 적용하여 각 바퀴에 견인력(Traction) 계수를 부여하는 단계(s320);<br />를 포함하는 것을 특징으로 하는 젖은 노면 제동성능 측정방법.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020220145795",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112022117255010",
+    "petitionclauseNumber": "5",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제1항에 있어서,<br />식4) <img id=\"i0013\" he=\"16\" wi=\"39\" file=\"pat00013.jpg\" img-format=\"jpg\" />에 의해 평균 감가속도를 산출하는 단계(s400); 및<br />상기 평균 감가속도를 중력가속도로 나누어 제동력계수(BFC)를 산출하는 단계(s410);<br />를 포함하는 것을 특징으로 하는 차량용 타이어의 젖은 노면 제동성능 측정방법.<br />d 는 Si와 Sf 사이의 거리 (m)로서 S2-S1,<br />Sf 는 최종속도(m/s)로서 V2,<br />Si 는 초기속도(m/s)로서 V1",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020220145795",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112024036703818",
+    "petitionclauseNumber": "1",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "차량용 타이어의 젖은 노면 제동성능 측정방법에 있어서, <br />시험노면(110)이 설치되는 프레임(100)과, 상기 프레임(100)의 상부에 설치되며 상기 시험노면(110)에 마찰되는 고무시편(200)을 직선운동시키는 직선운동베어링(300)을 포함하여 구성되는 고무 마찰계수 측정기를 이용하여 고무시편의 마찰계수(μ)를 측정하는 단계(s100); 및<br />하기의 식1에 의해 무차원수 Slip을 산출하는 단계(s200);<br />를 포함하고,<br />상기 식1에 의해 무차원수 Slip을 산출하는 단계(s200)는,<br />슬립속도의 로그함수에 따른 마찰계수(μ)가 증가하는 A영역에서 상기 마찰계수(μ)는 하기 (식2)에 의해 산출되고, 슬립속도의 로그함수에 따른 마찰계수(μ)가 증가하는 B영역에서 상기 마찰계수(μ)는 하기 (식3)에 의해 산출되는 것을 특징으로 하는 차량용 타이어의 젖은 노면 제동성능 측정방법:<br />(식1)_<br /><img id=\"i0007\" he=\"20\" wi=\"142\" file=\"pat00026.jpg\" img-format=\"jpg\" /><br />μ : 마찰계수, 하첨자 0은 초기 마찰계수, peak는 최대마찰계수, ∞는 동마찰계수<br />V : Slip Velocity, 하첨자 max 최대마찰계수에서의 Slip Velocity<br /><img id=\"i0008\" he=\"18\" wi=\"30\" file=\"pat00027.jpg\" img-format=\"jpg\" />: Slip velocity<br /><br />식2)_<br /> <img id=\"i0009\" he=\"30\" wi=\"90\" file=\"pat00028.jpg\" img-format=\"jpg\" /><br />μ : 마찰계수, 하첨자 0은 초기 마찰계수, peak는 최대마찰계수, ∞는 동마찰계수<br />P : 접지압력, 하첨자 ref는 기준 압력<br />Pk : 노면 관련 형상인자<br />ELAS : Stick, Slip Zone 구분인자<br />V : Slip Velocity, 하첨자 max 최대마찰계수에서의 Slip Velocity<br />_<img id=\"i0010\" he=\"18\" wi=\"30\" file=\"pat00029.jpg\" img-format=\"jpg\" />: Slip velocity'<br /><br />식3)_<br /><img id=\"i0011\" he=\"27\" wi=\"81\" file=\"pat00030.jpg\" img-format=\"jpg\" /><br />μ : 마찰계수, 하첨자 0은 초기 마찰계수, peak는 최대마찰계수, ∞는 동마찰계수<br />P : 접지압력, 하첨자 ref는 기준 압력<br />Pk : 노면 관련 형상인자<br />ELAS : Stick, Slip Zone 구분인자<br />V : Slip Velocity, 하첨자 max 최대마찰계수에서의 Slip Velocity<br /><img id=\"i0012\" he=\"18\" wi=\"30\" file=\"pat00031.jpg\" img-format=\"jpg\" />_: Slip velocity<br />",
+    "transferReceiptDocNumber": "112022117255010",
+    "transferPetitionclause": "차량용 타이어의 젖은 노면 제동성능 측정방법에 있어서, <br />시험노면(110)이 설치되는 프레임(100)과, 상기 프레임(100)의 상부에 설치되며 상기 시험노면(110)에 마찰되는 고무시편(200)을 직선운동시키는 직선운동베어링(300)을 포함하여 구성되는 고무 마찰계수 측정기를 이용하여 고무시편의 마찰계수(μ)를 측정하는 단계(s100); 및<br />하기의 식1에 의해 <Del>제동거리(s</Del><Ins>무차원수 S</Ins>lip<Del>)를</Del><Ins>을</Ins> 산출하는 단계(s200);<br />를 포함하<Ins>고,<br />상기 식1에 의해 무차원수 Slip을 산출하는 단계(s200)는,<br />슬립속도의 로그함수에 따른 마찰계수(μ)가 증가하는 A영역에서 상기 마찰계수(μ)는 하기 (식2)에 의해 산출되고, 슬립속도의 로그함수에 따른 마찰계수(μ)가 증가하는 B영역에서 상기 마찰계수(μ)는 하기 (식3)에 의해 산출되</Ins>는 것을 특징으로 하는 차량용 타이어의 젖은 노면 제동성능 측정방법<Del>.</Del><Ins>:</Ins><br />(식1)<Ins>_<br /><img id=\"i0007\" he=\"20\" wi=\"142\" file=\"pat00026.jpg\" img-format=\"jpg\" /><br />μ : 마찰계수, 하첨자 0은 초기 마찰계수, peak는 최대마찰계수, ∞는 동마찰계수<br />V : Slip Velocity, 하첨자 max 최대마찰계수에서의 Slip Velocity<br /><img id=\"i0008\" he=\"18\" wi=\"30\" file=\"pat00027.jpg\" img-format=\"jpg\" />: Slip velocity</Ins><Del><img id=\"i0007\" he=\"21\" wi=\"141\" file=\"pat00007.jpg\" img-format=\"jpg\" /></Del><Ins><br /><br />식2)_<br /> </Ins><Del><br /></Del><Ins><img id=\"i0009\" he=\"30\" wi=\"90\" file=\"pat00028.jpg\" img-format=\"jpg\" /><br /></Ins>μ : 마찰계수, 하첨자 0은 초기 마찰계수, peak는 최대마찰계수, ∞는 동마찰계수<br /><Ins>P : 접지압력, 하첨자 ref는 기준 압력<br />Pk : 노면 관련 형상인자<br />ELAS : Stick, Slip Zone 구분인자<br /></Ins>V : Slip Velocity, 하첨자 max 최대마찰계수에서의 Slip Velocity<br /><Ins>_</Ins><Del><img id=\"i0008\" he=\"19\" wi=\"30\" file=\"pat00008.jpg\" img-format=\"jpg\" /></Del><Ins><img id=\"i0010\" he=\"18\" wi=\"30\" file=\"pat00029.jpg\" img-format=\"jpg\" /></Ins>: Slip velocity<Ins>'<br /><br />식3)_<br /><img id=\"i0011\" he=\"27\" wi=\"81\" file=\"pat00030.jpg\" img-format=\"jpg\" /><br />μ : 마찰계수, 하첨자 0은 초기 마찰계수, peak는 최대마찰계수, ∞는 동마찰계수<br />P : 접지압력, 하첨자 ref는 기준 압력<br />Pk : 노면 관련 형상인자<br />ELAS : Stick, Slip Zone 구분인자<br />V : Slip Velocity, 하첨자 max 최대마찰계수에서의 Slip Velocity<br /><img id=\"i0012\" he=\"18\" wi=\"30\" file=\"pat00031.jpg\" img-format=\"jpg\" />_: Slip velocity<br /></Ins>"
+  },
+  {
+    "applicationNumber": "1020220145795",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112024036703818",
+    "petitionclauseNumber": "2",
+    "changeTypeCode": "D",
+    "changeTypeName": "삭제",
+    "petitionclause": " ",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020220145795",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112024036703818",
+    "petitionclauseNumber": "3",
+    "changeTypeCode": "D",
+    "changeTypeName": "삭제",
+    "petitionclause": " ",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020220145795",
+    "receiptSendSerialNumber": "3",
+    "receiptSendNumber": "112025000923915",
+    "petitionclauseNumber": "1",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "차량용 타이어의 젖은 노면 제동성능 측정방법에 있어서, <br />시험노면(110)이 설치되는 프레임(100)과, 상기 프레임(100)의 상부에 설치되며 상기 시험노면(110)에 마찰되는 고무시편(200)을 직선운동시키는 직선운동베어링(300)을 포함하여 구성되는 고무 마찰계수 측정기를 이용하여 고무시편의 마찰계수(μ)를 측정하는 단계(s100); 및<br />하기의 식1에 의해 무차원수 Slip을 산출하는 단계(s200);<br />를 포함하고,<br />상기 식1에 의해 무차원수 Slip을 산출하는 단계(s200)는,<br />슬립속도의 로그함수에 따른 마찰계수(μ)가 증가하는 A영역에서 상기 마찰계수(μ)는 하기 (식2)에 의해 산출되고, 슬립속도의 로그함수에 따른 마찰계수(μ)가 증가하는 B영역에서 상기 마찰계수(μ)는 하기 (식3)에 의해 산출되는 것을 특징으로 하는 차량용 타이어의 젖은 노면 제동성능 측정방법:<br />(식1)_<br /><img id=\"i0007\" he=\"20\" wi=\"142\" file=\"pat00026.jpg\" img-format=\"jpg\" /><br />μ : 마찰계수, 하첨자 0은 초기 마찰계수, peak는 최대마찰계수, ∞는 동마찰계수<br />V : Slip Velocity, 하첨자 max 최대마찰계수에서의 Slip Velocity<br />h : 상수<br /><img id=\"i0008\" he=\"18\" wi=\"30\" file=\"pat00027.jpg\" img-format=\"jpg\" />: Slip velocity<br /><br />식2)_<br /> <img id=\"i0009\" he=\"30\" wi=\"90\" file=\"pat00028.jpg\" img-format=\"jpg\" /><br />μ : 마찰계수, 하첨자 0은 초기 마찰계수, peak는 최대마찰계수, ∞는 동마찰계수<br />P : 접지압력, 하첨자 ref는 기준 압력<br />Pk : 노면 관련 형상인자<br />ELAS : Stick, Slip Zone 구분인자<br />V : Slip Velocity, 하첨자 max 최대마찰계수에서의 Slip Velocity<br />_<img id=\"i0010\" he=\"18\" wi=\"30\" file=\"pat00029.jpg\" img-format=\"jpg\" />: Slip velocity'<br /><br />식3)_<br /><img id=\"i0011\" he=\"27\" wi=\"81\" file=\"pat00030.jpg\" img-format=\"jpg\" /><br />μ : 마찰계수, 하첨자 0은 초기 마찰계수, peak는 최대마찰계수, ∞는 동마찰계수<br />P : 접지압력, 하첨자 ref는 기준 압력<br />Pk : 노면 관련 형상인자<br />ELAS : Stick, Slip Zone 구분인자<br />V : Slip Velocity, 하첨자 max 최대마찰계수에서의 Slip Velocity<br /><img id=\"i0012\" he=\"18\" wi=\"30\" file=\"pat00031.jpg\" img-format=\"jpg\" />_: Slip velocity<br />",
+    "transferReceiptDocNumber": "112024036703818",
+    "transferPetitionclause": "차량용 타이어의 젖은 노면 제동성능 측정방법에 있어서, <br />시험노면(110)이 설치되는 프레임(100)과, 상기 프레임(100)의 상부에 설치되며 상기 시험노면(110)에 마찰되는 고무시편(200)을 직선운동시키는 직선운동베어링(300)을 포함하여 구성되는 고무 마찰계수 측정기를 이용하여 고무시편의 마찰계수(μ)를 측정하는 단계(s100); 및<br />하기의 식1에 의해 무차원수 Slip을 산출하는 단계(s200);<br />를 포함하고,<br />상기 식1에 의해 무차원수 Slip을 산출하는 단계(s200)는,<br />슬립속도의 로그함수에 따른 마찰계수(μ)가 증가하는 A영역에서 상기 마찰계수(μ)는 하기 (식2)에 의해 산출되고, 슬립속도의 로그함수에 따른 마찰계수(μ)가 증가하는 B영역에서 상기 마찰계수(μ)는 하기 (식3)에 의해 산출되는 것을 특징으로 하는 차량용 타이어의 젖은 노면 제동성능 측정방법:<br />(식1)_<br /><img id=\"i0007\" he=\"20\" wi=\"142\" file=\"pat00026.jpg\" img-format=\"jpg\" /><br />μ : 마찰계수, 하첨자 0은 초기 마찰계수, peak는 최대마찰계수, ∞는 동마찰계수<br />V : Slip Velocity, 하첨자 max 최대마찰계수에서의 Slip Velocity<br /><Ins>h : 상수</Ins><Del><img id=\"i0008\" he=\"18\" wi=\"30\" file=\"pat00027.jpg\" img-format=\"jpg\" /></Del><Ins><br /><img id=\"i0008\" he=\"18\" wi=\"30\" file=\"pat00027.jpg\" img-format=\"jpg\" /></Ins>: Slip velocity<br /><br />식2)_<br /><img id=\"i0009\" he=\"30\" wi=\"90\" file=\"pat00028.jpg\" img-format=\"jpg\" /><br />μ : 마찰계수, 하첨자 0은 초기 마찰계수, peak는 최대마찰계수, ∞는 동마찰계수<br />P : 접지압력, 하첨자 ref는 기준 압력<br />Pk : 노면 관련 형상인자<br />ELAS : Stick, Slip Zone 구분인자<br />V : Slip Velocity, 하첨자 max 최대마찰계수에서의 Slip Velocity<br />_<img id=\"i0010\" he=\"18\" wi=\"30\" file=\"pat00029.jpg\" img-format=\"jpg\" />: Slip velocity'<br /><br />식3)_<br /><img id=\"i0011\" he=\"27\" wi=\"81\" file=\"pat00030.jpg\" img-format=\"jpg\" /><br />μ : 마찰계수, 하첨자 0은 초기 마찰계수, peak는 최대마찰계수, ∞는 동마찰계수<br />P : 접지압력, 하첨자 ref는 기준 압력<br />Pk : 노면 관련 형상인자<br />ELAS : Stick, Slip Zone 구분인자<br />V : Slip Velocity, 하첨자 max 최대마찰계수에서의 Slip Velocity<br /><img id=\"i0012\" he=\"18\" wi=\"30\" file=\"pat00031.jpg\" img-format=\"jpg\" />_: Slip velocity<br />"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "applicationNumber": "1020110143284",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112011103870319",
+    "petitionclauseNumber": "1",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "스티칭 작업할 때, 쉐이핑 드럼 회전 시 발생하는 회전 모멘트에 의해 발생하는 트래드부의 코드 웨이브를 제거하기 위하여,<br />쉐이핑 드럼 일측에 설치되어 쉐이핑 드럼에서 발생하는 토크를 측정하기 위한 토크센서; 및<br />토크센서에서 측정된 토크 크기만큼을 상쇄시키기 위하여 쉐이핑 드럼의 회전 방향과 역 방향으로 회전하도록 토크를 발생하기 위한 구동 스티쳐롤을 이용한 코드 웨이브 제거장치.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020110143284",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112011103870319",
+    "petitionclauseNumber": "2",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "청구항 1에 있어서, <br />상기 구동 스티쳐롤은 감속기와 서보 모터가 일체형으로 구성된 스티칭 암과 체결되어 구성됨을 특징으로 하는 구동 스티쳐롤을 이용한 코드 웨이브 제거장치.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020110143284",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112011103870319",
+    "petitionclauseNumber": "3",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "청구항 1에 있어서, <br />상기 코드 웨이브 제거장치는 쉐이핑 드럼에서 발생하는 토크 제거를 위하여 쉐이핑 드럼 일측에 설치된 토크센서에서 실시간으로 계측되는 토크를 바탕으로 구동 스티쳐롤을 쉐이핑 드럼에서 발생하는 토크를 제거하는 방향으로 구동시켜 토크가 제거된 후의 값이 존재하는 범위를 PLC 메모리에 설정하는 수단을 구비함을 구동 스티쳐롤을 이용한 코드 웨이브 제거장치.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020110143284",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112011103870319",
+    "petitionclauseNumber": "4",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "청구항 1에 있어서, <br />상기 코드 웨이브 제거장치는 필요한 제어신호를 입력하거나 실시간으로 측정되고 제어되는 측정값 및 제어된 토크의 변화를 모니터링하기 위한 터치패널 및 모니터를 더 구비함을 특징으로 하는 구동 스티쳐롤을 이용한 코드 웨이브 제거장치.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020110143284",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112011103870319",
+    "petitionclauseNumber": "5",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "청구항 1에 있어서, <br />상기 구동 스티쳐롤을 이용한 코드 웨이브 제거장치는 성형기 PLC와 구동 스티쳐롤 PLC간 사이의 신호 송수신은 멜섹넷 통신으로 이루고, 구동 스티쳐롤 PLC와 터치판넬 겸 모니터사이는 이더넷 통신으로 이루어지며, 구동 스티쳐롤 PLC와 서보모터 드라이브사이의 통신은 SSCNET로 이루어짐을 특징으로 하는 구동 스티쳐롤을 이용한 코드 웨이브 제거장치.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020110143284",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112013075791164",
+    "petitionclauseNumber": "1",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "스티칭 작업할 때, 쉐이핑 드럼 회전 시 발생하는 회전 모멘트에 의해 발생하는 트래드부의 코드 웨이브를 제거하기 위하여, 쉐이핑 드럼 일측에 설치되어 쉐이핑 드럼에서 발생하는 토크를 측정하기 위한 토크센서; 및<br />토크센서에서 측정된 토크 크기만큼을 상쇄시키기 위하여 쉐이핑 드럼의 회전 방향과 역 방향으로 회전시켜 토크를 발생하는 구동 스티쳐롤로 구성하되, <br />쉐이핑 드럼 일측에 설치된 토크센서에서 실시간으로 계측되는 토크를 바탕으로 구동 스티쳐롤을 쉐이핑 드럼에서 발생하는 토크를 제거하는 방향으로 구동시켜 쉐이핑 드럼에서 발생하는 토크를 제거한 후의 값이 피엘씨(PLC) 메모리에 설정된 토크 범위 내에서 토크가 제어되도록 구성함을 특징으로 하는 구동 스티쳐롤을 이용한 코드 웨이브 제거장치.",
+    "transferReceiptDocNumber": "112011103870319",
+    "transferPetitionclause": "스티칭 작업할 때, 쉐이핑 드럼 회전 시 발생하는 회전 모멘트에 의해 발생하는 트래드부의 코드 웨이브를 제거하기 위하여,<Del><br /></Del>쉐이핑 드럼 일측에 설치되어 쉐이핑 드럼에서 발생하는 토크를 측정하기 위한 토크센서; 및<br />토크센서에서 측정된 토크 크기만큼을 상쇄시키기 위하여 쉐이핑 드럼의 회전 방향과 역 방향으로 회전<Ins>시켜 토크를 발생</Ins>하<Del>도록</Del><Ins>는 구동 스티쳐롤로 구성하되, <br />쉐이핑 드럼 일측에 설치된 토크센서에서 실시간으로 계측되는 토크를 바탕으로 구동 스티쳐롤을 쉐이핑 드럼에서 발생하는</Ins> 토크를 <Ins>제거하는 방향으로 구동시켜 쉐이핑 드럼에서 </Ins>발생하<Del>기</Del><Ins>는</Ins><Del>위</Del><Ins>토크를 제거</Ins>한<Ins> 후의 값이 피엘씨(PLC) 메모리에 설정된 토크 범위 내에서 토크가 제어되도록 구성함을 특징으로 하는</Ins> 구동 스티쳐롤을 이용한 코드 웨이브 제거장치."
+  },
+  {
+    "applicationNumber": "1020110143284",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112013075791164",
+    "petitionclauseNumber": "3",
+    "changeTypeCode": "D",
+    "changeTypeName": "삭제",
+    "petitionclause": " ",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020110143284",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112013075791164",
+    "petitionclauseNumber": "5",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "청구항 1에 있어서, <br />상기 구동 스티쳐롤을 이용한 코드 웨이브 제거장치는 성형기 피엘씨(PLC)와 구동 스티쳐롤 피엘씨(PLC) 사이의 신호 송수신은 멜섹넷 통신으로 이루고, 구동 스티쳐롤 피엘씨(PLC)와 터치판넬 겸 모니터사이는 이더넷 통신으로 이루어지며, 구동 스티쳐롤 피엘씨(PLC)와 서보모터 드라이브사이의 통신은 SSCNET로 이루어짐을 특징으로 하는 구동 스티쳐롤을 이용한 코드 웨이브 제거장치.",
+    "transferReceiptDocNumber": "112011103870319",
+    "transferPetitionclause": "청구항 1에 있어서, <br />상기 구동 스티쳐롤을 이용한 코드 웨이브 제거장치는 성형기 <Ins>피엘씨(</Ins>PLC<Ins>)</Ins>와 구동 스티쳐롤 <Ins>피엘씨(</Ins>PLC<Del>간</Del><Ins>)</Ins> 사이의 신호 송수신은 멜섹넷 통신으로 이루고, 구동 스티쳐롤 <Ins>피엘씨(</Ins>PLC<Ins>)</Ins>와 터치판넬 겸 모니터사이는 이더넷 통신으로 이루어지며, 구동 스티쳐롤 <Ins>피엘씨(</Ins>PLC<Ins>)</Ins>와 서보모터 드라이브사이의 통신은 SSCNET로 이루어짐을 특징으로 하는 구동 스티쳐롤을 이용한 코드 웨이브 제거장치."
+  }
+]

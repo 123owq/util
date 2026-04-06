@@ -1,0 +1,101 @@
+[
+  {
+    "applicationNumber": "1020210000949",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112021001028110",
+    "petitionclauseNumber": "1",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "가류 공정 시 온도를 이원화하여 전달하기 위한 전자기유도가열을 이용한 온도 이원화 몰드에 있어서,<br />상부 플라튼 및 상기 상부 플라튼의 하부에 위치하는 하부 플라튼을 포함하는 플라튼부;<br />상기 상부 플라튼과 상기 하부 플라튼 사이에 결합되는 컨테이너 본체를 포함하는 본체부;<br />상기 컨테이너 본체의 내부 상면에 결합되는 상부 사이드월 몰드, 상기 컨테이너 본체의 내부 하면에 결합되는 하부 사이드월 몰드 및 상기 상부 사이드월 몰드 및 상기 하부 사이드월 몰드와 접하면서 상기 컨테이너 본체의 중앙부에 위치하는 트레드 몰드를 포함하는 몰드부;<br />상기 몰드부와 대향하도록 상기 본체부의 내측면에 결합되고 상기 상부 사이드월 몰드 및 상기 하부 사이드월 몰드로 열을 전달하는 스팀챔버부;<br />상기 본체부의 측면에 권취되고 전원이 인가되면 상기 트레드 몰드를 전자기유도가열하는 코일부; 및<br />상기 상부 플라튼을 상하방향으로 관통하고 상기 코일부의 양측을 외부로 통과시키는 전원연결부;를 포함하는 것을 특징으로 하는 전자기유도가열을 이용한 온도 이원화 몰드.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020210000949",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112021001028110",
+    "petitionclauseNumber": "2",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제1 항에 있어서,<br />상기 코일부의 양측과 전기적으로 연결되어 상기 코일부로 전원을 공급하는 전원부; 및<br />상기 전원부, 상기 스팀챔버부 및 상기 코일부와 전기적으로 연결되어 상기 전원부, 상기 스팀챔버부 및 상기 코일부의 동작을 제어하는 제어부;를 더 포함하는 것을 특징으로 하는 전자기유도가열을 이용한 온도 이원화 몰드.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020210000949",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112021001028110",
+    "petitionclauseNumber": "3",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제2 항에 있어서,<br />상기 제어부는 상기 스팀챔버부가 배관을 통해 스팀을 상기 상부 플라튼 및 상기 하부 플라튼의 내부로 공급하고 상기 상부 플라튼 및 상기 하부 플라튼을 매개체로 상기 상부 사이드월 몰드와 상기 하부 사이드월 몰드를 가열하도록 상기 스팀챔버부의 온도를 제어하는 것을 특징으로 하는 전자기유도가열을 이용한 온도 이원화 몰드.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020210000949",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112021001028110",
+    "petitionclauseNumber": "4",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제2 항에 있어서,<br />상기 제어부는 상기 트레드 몰드를 직접 전자기유도가열하는 상기 코일부의 온도를 제어하는 것을 특징으로 하는 전자기유도가열을 이용한 온도 이원화 몰드.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020210000949",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112021001028110",
+    "petitionclauseNumber": "5",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제1 항에 있어서,<br />상기 트레드 몰드의 외측면 중 상기 컨테이너 본체와 접하는 외측면에는 열전도 차단 소재가 접합되는 것을 특징으로 하는 전자기유도가열을 이용한 온도 이원화 몰드.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020210000949",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112021001028110",
+    "petitionclauseNumber": "6",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제1 항에 있어서,<br />상기 트레드 몰드는 자성체이고,<br />상기 상부 사이드월 몰드 및 상기 하부 사이드월 몰드는 비자성체인 것을 특징으로 하는 전자기유도가열을 이용한 온도 이원화 몰드.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020210000949",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112022040632250",
+    "petitionclauseNumber": "1",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "가류 공정 시 온도를 이원화하여 전달하기 위한 전자기유도가열을 이용한 온도 이원화 몰드에 있어서,<br />상부 플라튼 및 상기 상부 플라튼의 하부에 위치하는 하부 플라튼을 포함하는 플라튼부;<br />상기 상부 플라튼과 상기 하부 플라튼 사이에 결합되는 컨테이너 본체를 포함하는 본체부;<br />상기 컨테이너 본체의 내부 상면에 결합되는 비자성체인 상부 사이드월 몰드, 상기 컨테이너 본체의 내부 하면에 결합되는 비자성체인 하부 사이드월 몰드 및 상기 상부 사이드월 몰드 및 상기 하부 사이드월 몰드와 접하면서 상기 컨테이너 본체의 중앙부에 위치하는 자성체인 트레드 몰드를 포함하는 몰드부;<br />상기 몰드부와 대향하도록 상기 본체부의 내측면에 결합되고 상기 상부 사이드월 몰드 및 상기 하부 사이드월 몰드로 열을 전달하는 스팀챔버부;<br />상기 본체부의 측면에 권취되고 전원이 인가되면 상기 트레드 몰드를 전자기유도가열하는 코일부; 및<br />상기 상부 플라튼을 상하방향으로 관통하고 상기 코일부의 양측을 외부로 통과시키는 전원연결부;를 포함하고,<br />상기 트레드 몰드의 외측면 중 상기 컨테이너 본체와 접하는 외측면에는 열전도 차단 소재가 접합됨에 따라 상기 트레드 몰드에 전달된 열이 상기 상부 사이드월 몰드 및 상기 하부 사이드월 몰드로 열전달되는 것을 차단하며,<br />이에 따라 상기 스팀챔버부로부터 공급되는 스팀에 의한 열원이 상기 상부 사이드월 몰드 및 상기 하부 사이드월 몰드에만 전달되고, 상기 코일부에 의해 직접 전자기유도가열되는 열원이 상기 트레드 몰드에만 전달되는 열원의 이원화를 통하여 타이어의 생산을 위한 예열 시간 및 가류시간을 최적화하고 상기 타이어의 내구성능을 개선시키는 것을 특징으로 하는 전자기유도가열을 이용한 온도 이원화 몰드.<br />",
+    "transferReceiptDocNumber": "112021001028110",
+    "transferPetitionclause": "가류 공정 시 온도를 이원화하여 전달하기 위한 전자기유도가열을 이용한 온도 이원화 몰드에 있어서,<br />상부 플라튼 및 상기 상부 플라튼의 하부에 위치하는 하부 플라튼을 포함하는 플라튼부;<br />상기 상부 플라튼과 상기 하부 플라튼 사이에 결합되는 컨테이너 본체를 포함하는 본체부;<br />상기 컨테이너 본체의 내부 상면에 결합되는 <Ins>비자성체인 </Ins>상부 사이드월 몰드, 상기 컨테이너 본체의 내부 하면에 결합되는<Ins> 비자성체인</Ins> 하부 사이드월 몰드 및 상기 상부 사이드월 몰드 및 상기 하부 사이드월 몰드와 접하면서 상기 컨테이너 본체의 중앙부에 위치하는 <Ins>자성체인 </Ins>트레드 몰드를 포함하는 몰드부;<br />상기 몰드부와 대향하도록 상기 본체부의 내측면에 결합되고 상기 상부 사이드월 몰드 및 상기 하부 사이드월 몰드로 열을 전달하는 스팀챔버부;<br />상기 본체부의 측면에 권취되고 전원이 인가되면 상기 트레드 몰드를 전자기유도가열하는 코일부; 및<br />상기 상부 플라튼을 상하방향으로 관통하고 상기 코일부의 양측을 외부로 통과시키는 전원연결부;를 포함하<Ins>고,<br />상기 트레드 몰드의 외측면 중 상기 컨테이너 본체와 접하는 외측면에는 열전도 차단 소재가 접합됨에 따라 상기 트레드 몰드에 전달된 열이 상기 상부 사이드월 몰드 및 상기 하부 사이드월 몰드로 열전달되는 것을 차단하며,<br />이에 따라 상기 스팀챔버부로부터 공급되는 스팀에 의한 열원이 상기 상부 사이드월 몰드 및 상기 하부 사이드월 몰드에만 전달되고, 상기 코일부에 의해 직접 전자기유도가열되는 열원이 상기 트레드 몰드에만 전달되는 열원의 이원화를 통하여 타이어의 생산을 위한 예열 시간 및 가류시간을 최적화하고 상기 타이어의 내구성능을 개선시키</Ins>는 것을 특징으로 하는 전자기유도가열을 이용한 온도 이원화 몰드.<br />"
+  },
+  {
+    "applicationNumber": "1020210000949",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112022040632250",
+    "petitionclauseNumber": "5",
+    "changeTypeCode": "D",
+    "changeTypeName": "삭제",
+    "petitionclause": " ",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020210000949",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112022040632250",
+    "petitionclauseNumber": "6",
+    "changeTypeCode": "D",
+    "changeTypeName": "삭제",
+    "petitionclause": " ",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  }
+]

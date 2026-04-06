@@ -1,0 +1,178 @@
+[
+  {
+    "applicationNumber": "1020210079350",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112021070502696",
+    "petitionclauseNumber": "1",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "타이어 정보를 수집하도록 마련된 스마트 타이어;<br />상기 스마트 타이어로부터 제공받은 상기 타이어 정보 및 상기 노면 정보를 이용하여 제어 조건을 설정하도록 마련된 제어로직부;<br />상기 제어로직부에 의해 설정된 상기 제어 조건에 따라 차량의 구동장치 및 제동장치를 제어하도록 마련된 제어부를 포함하는 것을 특징으로 하는 스마트 타이어를 이용한 차량 제어 시스템.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020210079350",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112021070502696",
+    "petitionclauseNumber": "2",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 1 항에 있어서,<br />상기 스마트 타이어는,<br />타이어 하중, 마모도, 타이어 공기압, 단축 또는 다축 가속도, 분당 회전수를 포함하는 상기 타이어 정보를 측정할 수 있는 센서모듈을 포함하도록 마련된 것을 특징으로 하는 스마트 타이어를 이용한 차량 제어 시스템.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020210079350",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112021070502696",
+    "petitionclauseNumber": "3",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 1 항에 있어서,<br />노면 상태 및 노면의 마찰력을 포함한 상기 노면 정보를 측정하도록 마련된 카메라부를 더 포함하도록 마련된 것을 특징으로 하는 스마트 타이어를 이용한 차량 제어 시스템.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020210079350",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112021070502696",
+    "petitionclauseNumber": "4",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 3 항에 있어서,<br />상기 제어로직부는,<br />상기 스마트 타이어에 의해 기설정된 시간 간격 이내 동안 측정한 복수의 상기 타이어 정보 및 상기 노면 정보를 비교하여 오차율을 산출하는 검증모듈; 및<br />상기 오차율이 기설정된 정상범위 이내인 타이어 정보 및 노면 정보를 이용하여 상기 제어 조건을 설정하도록 마련된 산출모듈을 포함하는 것을 특징으로 하는 스마트 타이어를 이용한 차량 제어 시스템.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020210079350",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112021070502696",
+    "petitionclauseNumber": "5",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 4 항에 있어서,<br />상기 산출모듈은,<br />상기 타이어 정보 및 상기 노면 정보를 이용하여 노면 상태 및 타이어 상태에 따른 제동 거리 및 ABS 압력을 자동 계산하여 상기 제어 조건을 설정하도록 마련된 것을 특징으로 하는 스마트 타이어를 이용한 차량 제어 시스템.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020210079350",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112021070502696",
+    "petitionclauseNumber": "6",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 5 항에 있어서,<br />상기 제어 조건은,<br />최소 차간 거리, 최대 주행 속도를 포함하는 것을 특징으로 하는 스마트 타이어를 이용한 차량 제어 시스템.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020210079350",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112021070502696",
+    "petitionclauseNumber": "7",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 1 항에 있어서,<br />상기 제어로직부는,<br />제공받은 상기 타이어 정보를 저장하도록 마련된 메모리를 포함하며,<br />상기 메모리는 일정 시간 간격으로 상기 타이어 정보를 업데이트 하도록 마련된 것을 특징으로 하는 스마트 타이어를 이용한 차량 제어 시스템.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020210079350",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112021070502696",
+    "petitionclauseNumber": "8",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 3 항에 따른 스마트 타이어를 이용한 차량 제어 시스템의 제어 방법에 있어서,<br />a) 상기 제어로직부가 마모가 발생하지 않은 상태의 상기 스마트 타이어의 상기 타이어 정보를 기준으로 초기의 제어 조건을 설정하는 단계;<br />b) 상기 스마트 타이어 및 상기 카메라부가 상기 제어 조건으로 주행 중인 상기 타이어 정보 및 상기 노면 정보를 수집하는 단계;<br />c) 상기 스마트 타이어 및 상기 카메라부가 수집된 상기 타이어 정보 및 상기 노면 정보를 상기 제어로직부에 제공하는 단계;<br />d) 상기 제어로직부가 상기 타이어 정보 및 상기 노면 정보를 이용하여 상기 제어 조건을 보정하여 재설정하는 단계;<br />e) 상기 제어로직부가 상기 제어 조건을 상기 제어부에 제공하는 단계; 및<br />f) 상기 제어부가 제공된 상기 제어 조건에 따라 차량의 구동장치 및 제동장치를 제어하는 단계를 포함하며,<br />상기 b) 단계 내지 상기 f) 단계가 순차적으로 반복 수행되도록 이루어진 것을 특징으로 하는 스마트 타이어를 이용한 차량 제어 시스템의 제어 방법.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020210079350",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112021070502696",
+    "petitionclauseNumber": "9",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 8 항에 있어서,<br />상기 d) 단계는,<br />d1) 상기 스마트 타이어 및 상기 카메라부에 의해 기설정된 시간 간격 이내 동안 측정한 복수의 상기 타이어 정보 및 상기 노면 정보를 비교하여 오차율을 산출하는 단계;<br />d2) 산출된 상기 오차율이 기설정된 정상범위 이내인 타이어 정보 및 노면 정보를 도출하는 단계; 및<br />d3) 도출된 상기 타이어 정보 및 상기 노면 정보를 이용하여 노면 상태 및 타이어 상태에 따른 제동 거리 및 ABS 압력을 자동 계산하여 상기 제어 조건을 설정하는 단계를 포함하는 것을 특징으로 하는 스마트 타이어를 이용한 차량 제어 시스템의 제어 방법.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020210079350",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112021070502696",
+    "petitionclauseNumber": "10",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 9 항에 있어서,<br />상기 d3) 단계에서, 상기 제어 조건은,<br />최소 차간 거리, 최대 주행 속도를 포함하는 것을 특징으로 하는 스마트 타이어를 이용한 차량 제어 시스템의 제어 방법.<br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020210079350",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112021070502696",
+    "petitionclauseNumber": "11",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제 8 항에 있어서,<br />상기 e) 단계에서,<br />상기 제어로직부는 상기 타이어 정보, 상기 노면 정보 및 상기 제어 조건 중 어느 하나 이상을 표시부에 더 제공하도록 마련된 것을 특징으로 하는 스마트 타이어를 이용한 차량 제어 시스템의 제어 방법.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020210079350",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112022079552343",
+    "petitionclauseNumber": "1",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "타이어 정보를 수집하도록 마련된 스마트 타이어;<br />노면 상태 및 노면의 마찰력을 포함한 노면 정보를 측정하도록 마련된 카메라부;<br />상기 스마트 타이어로부터 제공받은 상기 타이어 정보 및 상기 노면 정보를 이용하여 제어 조건을 설정하도록 마련되고, 상기 스마트 타이어에 의해 기설정된 시간 간격 이내 동안 측정한 복수의 상기 타이어 정보 및 상기 노면 정보를 비교하여 오차율을 산출하는 검증모듈; 및 상기 오차율이 기설정된 정상범위 이내인 타이어 정보 및 노면 정보를 이용하여 상기 제어 조건을 설정하도록 마련된 산출모듈을 포함하는 제어로직부;<br />상기 제어로직부에 의해 설정된 상기 제어 조건에 따라 차량의 구동장치 및 제동장치를 제어하도록 마련된 제어부를 포함하고,<br />상기 검증모듈은, 상기 타이어 정보로써 상기 스마트 타이어의 복수의 지점 각각에서 측정된 값인 복수의 샘플의 평균값을 기준으로 하여, 복수의 샘플 각각의 오차율을 산출하며,<br />상기 산출모듈은, 복수의 샘플 중 하나의 샘플의 오차율이 기설정된 정상범위를 벗어나는 경우, 상기 제어 조건 설정 시 상기 하나의 샘플을 배제시키는 것을 특징으로 하는 스마트 타이어를 이용한 차량 제어 시스템.<br />",
+    "transferReceiptDocNumber": "112021070502696",
+    "transferPetitionclause": "타이어 정보를 수집하도록 마련된 스마트 타이어;<br /><Ins>노면 상태 및 노면의 마찰력을 포함한 노면 정보를 측정하도록 마련된 카메라부;<br /></Ins>상기 스마트 타이어로부터 제공받은 상기 타이어 정보 및 상기 노면 정보를 이용하여 제어 조건을 설정하도록 마련<Ins>되고, 상기 스마트 타이어에 의해 기설정</Ins>된 <Ins>시간 간격 이내 동안 측정한 복수의 상기 타이어 정보 및 상기 노면 정보를 비교하여 오차율을 산출하는 검증모듈; 및 상기 오차율이 기설정된 정상범위 이내인 타이어 정보 및 노면 정보를 이용하여 상기 제어 조건을 설정하도록 마련된 산출모듈을 포함하는 </Ins>제어로직부;<br />상기 제어로직부에 의해 설정된 상기 제어 조건에 따라 차량의 구동장치 및 제동장치를 제어하도록 마련된 제어부를 포함하<Ins>고,<br />상기 검증모듈은, 상기 타이어 정보로써 상기 스마트 타이어의 복수의 지점 각각에서 측정된 값인 복수의 샘플의 평균값을 기준으로 하여, 복수의 샘플 각각의 오차율을 산출하며,<br />상기 산출모듈은, 복수의 샘플 중 하나의 샘플의 오차율이 기설정된 정상범위를 벗어나는 경우, 상기 제어 조건 설정 시 상기 하나의 샘플을 배제시키</Ins>는 것을 특징으로 하는 스마트 타이어를 이용한 차량 제어 시스템.<br />"
+  },
+  {
+    "applicationNumber": "1020210079350",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112022079552343",
+    "petitionclauseNumber": "3",
+    "changeTypeCode": "D",
+    "changeTypeName": "삭제",
+    "petitionclause": " ",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020210079350",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112022079552343",
+    "petitionclauseNumber": "4",
+    "changeTypeCode": "D",
+    "changeTypeName": "삭제",
+    "petitionclause": " ",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020210079350",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112022079552343",
+    "petitionclauseNumber": "5",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "제 1 항에 있어서,<br />상기 산출모듈은,<br />상기 타이어 정보 및 상기 노면 정보를 이용하여 노면 상태 및 타이어 상태에 따른 제동 거리 및 ABS 압력을 자동 계산하여 상기 제어 조건을 설정하도록 마련된 것을 특징으로 하는 스마트 타이어를 이용한 차량 제어 시스템.<br />",
+    "transferReceiptDocNumber": "112021070502696",
+    "transferPetitionclause": "제 <Del>4</Del><Ins>1</Ins> 항에 있어서,<br />상기 산출모듈은,<br />상기 타이어 정보 및 상기 노면 정보를 이용하여 노면 상태 및 타이어 상태에 따른 제동 거리 및 ABS 압력을 자동 계산하여 상기 제어 조건을 설정하도록 마련된 것을 특징으로 하는 스마트 타이어를 이용한 차량 제어 시스템.<br />"
+  },
+  {
+    "applicationNumber": "1020210079350",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112022079552343",
+    "petitionclauseNumber": "8",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "제 1 항에 따른 스마트 타이어를 이용한 차량 제어 시스템의 제어 방법에 있어서,<br />a) 상기 제어로직부가 마모가 발생하지 않은 상태의 상기 스마트 타이어의 상기 타이어 정보를 기준으로 초기의 제어 조건을 설정하는 단계;<br />b) 상기 스마트 타이어 및 상기 카메라부가 상기 제어 조건으로 주행 중인 상기 타이어 정보 및 상기 노면 정보를 수집하는 단계;<br />c) 상기 스마트 타이어 및 상기 카메라부가 수집된 상기 타이어 정보 및 상기 노면 정보를 상기 제어로직부에 제공하는 단계;<br />d) 상기 제어로직부가 상기 타이어 정보 및 상기 노면 정보를 이용하여 상기 제어 조건을 보정하여 재설정하는 단계;<br />e) 상기 제어로직부가 상기 제어 조건을 상기 제어부에 제공하는 단계; 및<br />f) 상기 제어부가 제공된 상기 제어 조건에 따라 차량의 구동장치 및 제동장치를 제어하는 단계를 포함하며,<br />상기 b) 단계 내지 상기 f) 단계가 순차적으로 반복 수행되도록 이루어진 것을 특징으로 하는 스마트 타이어를 이용한 차량 제어 시스템의 제어 방법.<br />",
+    "transferReceiptDocNumber": "112021070502696",
+    "transferPetitionclause": "제 <Del>3</Del><Ins>1</Ins> 항에 따른 스마트 타이어를 이용한 차량 제어 시스템의 제어 방법에 있어서,<br />a) 상기 제어로직부가 마모가 발생하지 않은 상태의 상기 스마트 타이어의 상기 타이어 정보를 기준으로 초기의 제어 조건을 설정하는 단계;<br />b) 상기 스마트 타이어 및 상기 카메라부가 상기 제어 조건으로 주행 중인 상기 타이어 정보 및 상기 노면 정보를 수집하는 단계;<br />c) 상기 스마트 타이어 및 상기 카메라부가 수집된 상기 타이어 정보 및 상기 노면 정보를 상기 제어로직부에 제공하는 단계;<br />d) 상기 제어로직부가 상기 타이어 정보 및 상기 노면 정보를 이용하여 상기 제어 조건을 보정하여 재설정하는 단계;<br />e) 상기 제어로직부가 상기 제어 조건을 상기 제어부에 제공하는 단계; 및<br />f) 상기 제어부가 제공된 상기 제어 조건에 따라 차량의 구동장치 및 제동장치를 제어하는 단계를 포함하며,<br />상기 b) 단계 내지 상기 f) 단계가 순차적으로 반복 수행되도록 이루어진 것을 특징으로 하는 스마트 타이어를 이용한 차량 제어 시스템의 제어 방법.<br />"
+  }
+]

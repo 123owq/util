@@ -1,0 +1,178 @@
+[
+  {
+    "applicationNumber": "1020200173822",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112020135010376",
+    "petitionclauseNumber": "1",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "고무 컴파운드를 분말화하는 파쇄 단계; <br />분말화 된 상기 고무 컴파운드를 제1 용매에 용해시키는 용해 단계; 및<br />상기 용해 단계의 결과물을 건조하는 건조 단계를 포함하는 <br />액상 고무 컴파운드의 제조방법.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020200173822",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112020135010376",
+    "petitionclauseNumber": "2",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제1항에 있어서,<br />분말화 된 상기 고무 컴파운드와 상기 제1 용매의 중량비는 5:95 내지 30:70 인 액상 고무 컴파운드의 제조방법.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020200173822",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112020135010376",
+    "petitionclauseNumber": "3",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제1항에 있어서,<br />상기 제1 용매는, 사이클로헥세인(Cyclohexane), 톨루엔(Toluene), 1,4-다이옥세인(1,4-Dioxane), 다이부틸아민(Dibutylamine), 테레빈유(Turpentine), 자일렌(Xylene)으로 이루어진 군에서 선택된 하나 이상을 포함하는 액상 고무 컴파운드의 제조방법.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020200173822",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112020135010376",
+    "petitionclauseNumber": "4",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제1항에 있어서,<br />상기 건조 단계는, 0 내지 70℃에서 수행되는 액상 고무 컴파운드의 제조방법.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020200173822",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112020135010376",
+    "petitionclauseNumber": "5",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제1항에 있어서,<br />상기 액상 고무 컴파운드와 상기 제1 용매의 중량비는 30:70 내지 50:50 인 액상 고무 컴파운드의 제조방법.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020200173822",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112020135010376",
+    "petitionclauseNumber": "6",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제1항에 있어서,<br />상기 파쇄 단계는 냉각제를 이용하여 상기 고무 컴파운드를 냉각시키는 냉각 단계를 포함하는 액상 고무 컴파운드의 제조방법.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020200173822",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112020135010376",
+    "petitionclauseNumber": "7",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제6항에 있어서,<br />상기 냉각제는 액화 질소, 액화 헬륨, 액화 산소, 액화 수소, 액화 네온으로 이루어진 군에서 선택된 하나 이상인 액상 고무 컴파운드의 제조방법.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020200173822",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112020135010376",
+    "petitionclauseNumber": "8",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제1항에 있어서,<br />상기 고무 컴파운드는,<br />원료고무 100 중량부 및<br />보강성 충진제 0 내지 120 중량부를 포함하는 액상 고무 컴파운드의 제조방법.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020200173822",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112020135010376",
+    "petitionclauseNumber": "9",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제1항 내지 제8항 중 어느 한 항에 따른 액상 고무 컴파운드의 제조방법으로 제조된 제1 액상 고무 컴파운드를 제1 디스펜서에 주입하는 제1 주입 단계; 및<br />상기 제1 디스펜서와 연결된 제1 노즐로 상기 제1 액상 고무 컴파운드를 토출하는 제1 방출 단계를 포함하는,<br />3D 프린터를 이용한 타이어의 제조방법.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020200173822",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112020135010376",
+    "petitionclauseNumber": "10",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제9항에 있어서,<br />상기 제1 노즐의 직경은 0.2 내지 1밀리미터(mm)인, 3D 프린터를 이용한 타이어의 제조방법.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020200173822",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112020135010376",
+    "petitionclauseNumber": "11",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제9항에 있어서,<br />제2 액상 고무 컴파운드를 상기 제1 디스펜서와 대응되는 제2 디스펜서에 주입하는 제2 주입 단계 및<br />상기 제2 디스펜서와 연결된 제2 노즐로 상기 제2 액상 고무 컴파운드를 토출하는 제2 방출 단계를 더 포함하는, <br />3D 프린터를 이용한 타이어의 제조방법.",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020200173822",
+    "receiptSendSerialNumber": "1",
+    "receiptSendNumber": "112020135010376",
+    "petitionclauseNumber": "12",
+    "changeTypeCode": "I",
+    "changeTypeName": "신규",
+    "petitionclause": "제11항에 있어서,<br />상기 제2 액상 고무 컴파운드는 상기 제1 액상 고무 컴파운드와 다른, 3D 프린터를 이용한 타이어의 제조방법.<br /><br />",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020200173822",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112022063171129",
+    "petitionclauseNumber": "1",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "고무 컴파운드를 냉각제를 이용하여 냉각시키는 단계;<br />상기 고무 컴파운드를 분말화하는 파쇄 단계; <br />분말화 된 상기 고무 컴파운드를 제1 용매에 용해시키는 용해 단계; 및<br />상기 용해 단계의 결과물을 건조하는 건조 단계를 포함하는 <br />액상 고무 컴파운드의 제조방법.",
+    "transferReceiptDocNumber": "112020135010376",
+    "transferPetitionclause": "<Ins>고무 컴파운드를 냉각제를 이용하여 냉각시키는 단계;<br />상기 </Ins>고무 컴파운드를 분말화하는 파쇄 단계; <br />분말화 된 상기 고무 컴파운드를 제1 용매에 용해시키는 용해 단계; 및<br />상기 용해 단계의 결과물을 건조하는 건조 단계를 포함하는 <br />액상 고무 컴파운드의 제조방법."
+  },
+  {
+    "applicationNumber": "1020200173822",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112022063171129",
+    "petitionclauseNumber": "6",
+    "changeTypeCode": "D",
+    "changeTypeName": "삭제",
+    "petitionclause": " ",
+    "transferReceiptDocNumber": " ",
+    "transferPetitionclause": " "
+  },
+  {
+    "applicationNumber": "1020200173822",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112022063171129",
+    "petitionclauseNumber": "7",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "제1항에 있어서,<br />상기 냉각제는 액화 질소, 액화 헬륨, 액화 산소, 액화 수소, 액화 네온으로 이루어진 군에서 선택된 하나 이상인 액상 고무 컴파운드의 제조방법.",
+    "transferReceiptDocNumber": "112020135010376",
+    "transferPetitionclause": "제<Del>6</Del><Ins>1</Ins>항에 있어서,<br />상기 냉각제는 액화 질소, 액화 헬륨, 액화 산소, 액화 수소, 액화 네온으로 이루어진 군에서 선택된 하나 이상인 액상 고무 컴파운드의 제조방법."
+  },
+  {
+    "applicationNumber": "1020200173822",
+    "receiptSendSerialNumber": "2",
+    "receiptSendNumber": "112022063171129",
+    "petitionclauseNumber": "9",
+    "changeTypeCode": "A",
+    "changeTypeName": "수정",
+    "petitionclause": "제1항 내지 제5항, 제7항 및 제8항 중 어느 한 항에 따른 액상 고무 컴파운드의 제조방법으로 제조된 제1 액상 고무 컴파운드를 제1 디스펜서에 주입하는 제1 주입 단계; 및<br />상기 제1 디스펜서와 연결된 제1 노즐로 상기 제1 액상 고무 컴파운드를 토출하는 제1 방출 단계를 포함하는,<br />3D 프린터를 이용한 타이어의 제조방법.",
+    "transferReceiptDocNumber": "112020135010376",
+    "transferPetitionclause": "제1항 내지 제<Ins>5항, 제7항 및 제</Ins>8항 중 어느 한 항에 따른 액상 고무 컴파운드의 제조방법으로 제조된 제1 액상 고무 컴파운드를 제1 디스펜서에 주입하는 제1 주입 단계; 및<br />상기 제1 디스펜서와 연결된 제1 노즐로 상기 제1 액상 고무 컴파운드를 토출하는 제1 방출 단계를 포함하는,<br />3D 프린터를 이용한 타이어의 제조방법."
+  }
+]

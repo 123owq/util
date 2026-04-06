@@ -1,0 +1,58 @@
+[
+  {
+    "ApplicationNumber": "1020210044957",
+    "OriginalcitationLiteraturenumber": "국제공개공보 WO201005058720100506 1부",
+    "OriginalcitationLiteraturenumberDate": "20100506",
+    "StandardCitationLiteraturenumber": "2010050587",
+    "StandardCitationLiteratureCountryCode": "WO",
+    "StandardCitationLiteratureCountryCodeName": "세계지적재산권기구(WIPO)",
+    "StandardCitationIdentificationCode": "A1",
+    "StandardCitationLiteraturePublicationDate": "20100506",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0801",
+    "CitationLiteratureTypeCodeName": "발송문서"
+  },
+  {
+    "ApplicationNumber": "1020210044957",
+    "OriginalcitationLiteraturenumber": "WO2010050587 A1",
+    "OriginalcitationLiteraturenumberDate": " ",
+    "StandardCitationLiteraturenumber": "2010050587",
+    "StandardCitationLiteratureCountryCode": "WO",
+    "StandardCitationLiteratureCountryCodeName": "세계지적재산권기구(WIPO)",
+    "StandardCitationIdentificationCode": "A1",
+    "StandardCitationLiteraturePublicationDate": "20100506",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0802",
+    "CitationLiteratureTypeCodeName": "선행기술조사보고서"
+  },
+  {
+    "ApplicationNumber": "1020210044957",
+    "OriginalcitationLiteraturenumber": "KR2019990014804 U",
+    "OriginalcitationLiteraturenumberDate": " ",
+    "StandardCitationLiteraturenumber": "2019990014804",
+    "StandardCitationLiteratureCountryCode": "KR",
+    "StandardCitationLiteratureCountryCodeName": "대한민국",
+    "StandardCitationIdentificationCode": "U",
+    "StandardCitationLiteraturePublicationDate": "19990506",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0802",
+    "CitationLiteratureTypeCodeName": "선행기술조사보고서"
+  },
+  {
+    "ApplicationNumber": "1020210044957",
+    "OriginalcitationLiteraturenumber": "JP2021066287 A",
+    "OriginalcitationLiteraturenumberDate": " ",
+    "StandardCitationLiteraturenumber": "2021066287",
+    "StandardCitationLiteratureCountryCode": "JP",
+    "StandardCitationLiteratureCountryCodeName": "일본",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "20210430",
+    "StandardStatusCode": "99999",
+    "StandardStatusCodeName": "비표준화",
+    "CitationLiteratureTypeCode": "E0802",
+    "CitationLiteratureTypeCodeName": "선행기술조사보고서"
+  }
+]

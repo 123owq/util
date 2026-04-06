@@ -1,0 +1,58 @@
+[
+  {
+    "ApplicationNumber": "1020240043960",
+    "OriginalcitationLiteraturenumber": "일본 공개특허공보 특개2006282091호20061019 1부",
+    "OriginalcitationLiteraturenumberDate": "20061019",
+    "StandardCitationLiteraturenumber": "18282091",
+    "StandardCitationLiteratureCountryCode": "JP",
+    "StandardCitationLiteratureCountryCodeName": "일본",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "20061019",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0801",
+    "CitationLiteratureTypeCodeName": "발송문서"
+  },
+  {
+    "ApplicationNumber": "1020240043960",
+    "OriginalcitationLiteraturenumber": "JP2006282091 A",
+    "OriginalcitationLiteraturenumberDate": " ",
+    "StandardCitationLiteraturenumber": "18282091",
+    "StandardCitationLiteratureCountryCode": "JP",
+    "StandardCitationLiteratureCountryCodeName": "일본",
+    "StandardCitationIdentificationCode": "A",
+    "StandardCitationLiteraturePublicationDate": "20061019",
+    "StandardStatusCode": "20001",
+    "StandardStatusCodeName": "표준화",
+    "CitationLiteratureTypeCode": "E0805",
+    "CitationLiteratureTypeCodeName": "선행기술조사문헌"
+  },
+  {
+    "ApplicationNumber": "1020240043960",
+    "OriginalcitationLiteraturenumber": "US 09177183 Method for reading data stored in an electronic device for a tire 등록일자 20151103",
+    "OriginalcitationLiteraturenumberDate": "20151103",
+    "StandardCitationLiteraturenumber": "9177183",
+    "StandardCitationLiteratureCountryCode": "US",
+    "StandardCitationLiteratureCountryCodeName": "미국",
+    "StandardCitationIdentificationCode": " ",
+    "StandardCitationLiteraturePublicationDate": " ",
+    "StandardStatusCode": "99999",
+    "StandardStatusCodeName": "비표준화",
+    "CitationLiteratureTypeCode": "E0806",
+    "CitationLiteratureTypeCodeName": "출원서인용문헌이력정보"
+  },
+  {
+    "ApplicationNumber": "1020240043960",
+    "OriginalcitationLiteraturenumber": "KR 102490773 RFID 태그를 이용한 공기입 타이어의 손상 모니터링 시스템 및 방법 등록일자 20230117",
+    "OriginalcitationLiteraturenumberDate": "20230117",
+    "StandardCitationLiteraturenumber": "1024907730000",
+    "StandardCitationLiteratureCountryCode": "KR",
+    "StandardCitationLiteratureCountryCodeName": "대한민국",
+    "StandardCitationIdentificationCode": " ",
+    "StandardCitationLiteraturePublicationDate": " ",
+    "StandardStatusCode": "99999",
+    "StandardStatusCodeName": "비표준화",
+    "CitationLiteratureTypeCode": "E0806",
+    "CitationLiteratureTypeCodeName": "출원서인용문헌이력정보"
+  }
+]
